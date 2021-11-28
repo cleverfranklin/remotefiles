@@ -5,17 +5,17 @@
         "featured": true,
         "image": "bagels1",
         "ingredients": [{
-            "ingName": "test file",
+            "ingName": "item 1",
             "num": 5,
             "denom": 4,
             "unit": "c"
         }, {
-            "ingName": "test",
+            "ingName": "item 2",
             "num": 5,
             "denom": 2,
             "unit": "tsp"
         }, {
-            "ingName": "YEAST",
+            "ingName": "item 3",
             "num": 2,
             "unit": "tsp"
         }, {
