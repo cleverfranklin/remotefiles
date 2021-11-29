@@ -1,35 +1,35 @@
 [{
         "name": "Test for remote Json file two",
-        "id":1
+        "id": 1,
         "volume": 4,
         "servings": 8,
         "featured": true,
         "image": "bagels1",
         "ingredients": [{
-            "ingName": "item 1","uuid":2,
+            "ingName": "item 1","id": 1,
             "num": 5,
             "denom": 4,
             "unit": "c"
         }, {
             "ingName": "item 2",
-               "id":1,
+               "id": 2,
             "num": 5,
             "denom": 2,
             "unit": "tsp"
         }, {
             "ingName": "item 3",
-                "id":3,
+                "id": 3,
             "num": 2,
             "unit": "tsp"
         }, {
             "ingName": "WHITE FLOUR",
-                "id":4
+                "id": 4,
             "num": 7,
             "denom": 3,
             "unit": "c"
         }, {
             "ingName": "SALT",
-                "id":5,
+                "id": 5,
             "num": 3,
             "denom": 2,
             "unit": "tsp"
