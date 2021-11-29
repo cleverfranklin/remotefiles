@@ -40,7 +40,7 @@
         "volume": 4,
         "servings": 8,
         "featured": true,
-        "image": "bagels1",
+        "image": "figjam",
         "ingredients": [{
             "ingName": "item 1",
             "num": 5,
