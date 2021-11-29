@@ -9,6 +9,17 @@
             "num": 5,
             "denom": 4,
             "unit": "c"
+        },{
+        "name": "Test item 2 for remote Json file two",
+        "volume": 4,
+        "servings": 8,
+        "featured": true,
+        "image": "bagels1",
+        "ingredients": [{
+            "ingName": "item 1",
+            "num": 5,
+            "denom": 4,
+            "unit": "c"
         }, {
             "ingName": "item 2",
             "num": 5,
