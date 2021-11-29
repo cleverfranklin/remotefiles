@@ -1,6 +1,6 @@
 [{
         "name": "Test for remote Json file two",
-        "uuid":1
+        "id":1
         "volume": 4,
         "servings": 8,
         "featured": true,
@@ -12,24 +12,24 @@
             "unit": "c"
         }, {
             "ingName": "item 2",
-               "uuid":1,
+               "id":1,
             "num": 5,
             "denom": 2,
             "unit": "tsp"
         }, {
             "ingName": "item 3",
-                "uuid":3,
+                "id":3,
             "num": 2,
             "unit": "tsp"
         }, {
             "ingName": "WHITE FLOUR",
-                "uuid":4
+                "id":4
             "num": 7,
             "denom": 3,
             "unit": "c"
         }, {
             "ingName": "SALT",
-                "uuid":5,
+                "id":5,
             "num": 3,
             "denom": 2,
             "unit": "tsp"
