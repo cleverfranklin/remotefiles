@@ -71,5 +71,585 @@
         }],
         "instructions": ["step 1", "step 2", "step 3", "step 4", "etc"],
         "category": "Breakfast"
-    }
+    }, {
+		"name": "NYC Bagels",
+		"volume": 4,
+		"servings": 8,
+		"featured": true,
+		"image": "bagels1",
+		"ingredients": [{
+			"ingName": "Warm Water",
+			"num": 5,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "SUGAR",
+			"num": 5,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "YEAST",
+			"num": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "WHITE FLOUR",
+			"num": 7,
+			"denom": 3,
+			"unit": "c"
+		}, {
+			"ingName": "SALT",
+			"num": 3,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "WATER for boiling",
+			"num": 8,
+			"unit": "c"
+		}, {
+			"ingName": "SUGAR for boiling",
+			"num": 2,
+			"unit": "tsp"
+		}],
+		"instructions": ["Combine water, sugar and yeast together", "Combine Flour & Salt and then add stirred liquid to combine", "Knead dough for about 10 minutes until stiff", "Rise dough for about 1 1/2 hours", "Cut dough into equal sizes (8 large/12 small), roll into a dough ball", "Cover dough with plastic wrap and proof for 30 min", "Punch hole in middle and shape as bagel", "In slowly boiling water add bagels - 2 minutes one side and then 1 to 2 minutes second side", "Bake at 425 F for 20-25 min, turning after about 15 min"],
+		"category": "Breakfast"
+	},
+	{
+		"name": "Artisan Crackers",
+		"volume": 4,
+		"servings": 20,
+		"featured": true,
+		"image": "crackers1",
+		"ingredients": [{
+			"ingName": "WHITE FLOUR",
+			"num": 1,
+			"unit": "c"
+		}, {
+			"ingName": "WHEAT FLOUR",
+			"num": 1,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "EVOO",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "COLD WATER",
+			"num": 1,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "YEAST",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "HERBS optional",
+			"num": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "BLACK PEPPER optional",
+			"num": 1,
+			"unit": "tsp"
+		}],
+		"instructions": ["Preheat the oven to 450 degrees. Combine the flour, salt, honey, and olive oil by hand", "Add the water and shape into a ball. Let the dough rest for about 30 minutes.", "1 tsp Salt", "add rosemary or pepper, then roll out each individual piece of dough as thin as you possibly can. Brush top with olive oil and sprinkle salt as desired. Cut into strips or desired shape", "Bake for 4-6 minutes, but check periodically to make sure it’s not getting too brown – flip each cracker piece and bake another 4-6 minutes. Once they are the color you like take them out and turn off oven. After 30 min put back into now warm oven and leave for a few hours to allow them to fully dry out if you prefer"],
+		"category": "Breakfast"
+	},
+	{
+		"name": "Fig Jam",
+		"volume": 4,
+		"servings": 10,
+		"featured": false,
+		"image": "figjam",
+		"ingredients": [{
+			"ingName": "LEMON",
+			"num": 1
+		}, {
+			"ingName": "SUGAR",
+			"num": 3,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "HONEY",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "BLACK FIGS",
+			"num": 1,
+			"unit": "lb"
+		}, {
+			"ingName": "FRESH THYME",
+			"num": 2,
+			"unit": "sprigs"
+		}],
+		"instructions": ["For a thick jam simmer for 50 to 60 minutes. For a looser jam simmer for 40 minutes", "Place lemon rind OR juice of lemon and all other ingredients into a medium, heavy bottomed saucepan. Stir to combine.", "Bring contents to a boil over medium high heat, stirring frequently. Reduce heat to low and simmer for 40 to 60 minutes. ", "Discard thym stems and lemon peel. Pulse jam with an immersion blender to chop up the fig skins if desired."],
+		"category": "Snack"
+	},
+	{
+		"name": "Overnight Bread",
+		"volume": 4,
+		"servings": 24,
+		"featured": true,
+		"image": "bread",
+		"ingredients": [{
+			"ingName": "WHOLE WHEAT FLOUR",
+			"num": 4,
+			"unit": "c"
+		}, {
+			"ingName": "BREAD FLOUR",
+			"num": 11,
+			"denom": 3,
+			"unit": "c"
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"unit": "tbsp"
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "HOT WATER",
+			"num": 3,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "COLD WATER",
+			"num": 2,
+			"unit": "c"
+		}, {
+			"ingName": "YEAST",
+			"num": 3,
+			"denom": 4,
+			"unit": "tsp"
+		}],
+		"instructions": ["Heat over to 475 with cast iron in the oven", "Shape dough and then proof for up to 30 min while oven is heating", "Bake 30 minutes with the lid on (or foil) and then 25-30 min with the lid off"],
+		"category": "Snack"
+	},
+	{
+		"name": "Cinnamon Rolls ",
+		"volume": 4,
+		"servings": 8,
+		"featured": true,
+		"image": "cinnamonrolls1",
+		"ingredients": [{
+			"ingName": "BUTTERMILK",
+			"num": 1,
+			"unit": "c"
+		}, {
+			"ingName": "BUTTER",
+			"num": 3,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "FLOUR",
+			"num": 400,
+			"unit": "g"
+		}, {
+			"ingName": "SUGAR",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "BAKING POWDER",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "BAKING SODA",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "BROWN SUGAR for filling",
+			"num": 2,
+			"denom": 3,
+			"unit": "c"
+		}, {
+			"ingName": "CINNAMON",
+			"num": 3,
+			"denom": 2,
+			"unit": "tbsp"
+		}],
+		"instructions": ["Oven 430 F. Mix dry ingredients and then add room temperature Butter, mix with a fork. Add Buttermilk and mix. ", "Roll out the dough into rectangle", " Spread room temperature Butter onto dough. Mix Brown Sugar and Cinnamon and then press into sugar until it becomes moist.", "Roll up and cut into 12 rolls. Line a baking tin and place rolls evenly in pan. Brush tops with Buttermilk", "Bake 15-20 minutes until golden brown", "Frosting - Mix/whip Cream Chesse & Butter, then add Sugar and Vanilla. Spread over rolls as soon as they come out of the oven"],
+		"category": "Breakfast"
+	},
+	{
+		"name": "Cinnamon Roll Frosting",
+		"volume": 4,
+		"servings": 8,
+		"featured": false,
+		"image": "",
+		"ingredients": [{
+			"ingName": "CREAM CHEESE",
+			"num": 4,
+			"unit": "oz"
+		}, {
+			"ingName": "BUTTER",
+			"num": 3,
+			"unit": "tbsp"
+		}, {
+			"ingName": "POWDERED SUGAR",
+			"num": 3,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "VANILLA",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp"
+		}],
+		"instructions": ["Frosting - Mix/whip Cream Cheese & Butter, then add Sugar and Vanilla. Spread over rolls as soon as they come out of the oven"],
+		"category": "Breakfast"
+	},
+	{
+		"name": "Hot Cocoa",
+		"volume": 4,
+		"servings": 12,
+		"featured": false,
+		"image": "",
+		"ingredients": [{
+			"ingName": "DRY MILK POWDER",
+			"num": 3,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "SUGAR",
+			"num": 1,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "COCOA POWDER",
+			"num": 1,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "CORN STARCH",
+			"num": 2,
+			"unit": "tsp"
+		}],
+		"instructions": ["Add 3 tablespoons of the Hot Chocolate mix to 8 oz milk or water into a saucepan and stir. Simmer on medium/low heat for 2 minutes."],
+		"category": "Drink"
+	},
+	{
+		"name": "Caramel or Peanut Butter Brownie",
+		"volume": 4,
+		"servings": 16,
+		"featured": true,
+		"image": "",
+		"ingredients": [{
+			"ingName": "BUTTER",
+			"num": 5,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "MORE BUTTER",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "COCOA",
+			"num": 3,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "BROWN SUGAR",
+			"num": 5,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "FLOUR",
+			"num": 3,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "LARGE EGGS",
+			"num": 3,
+			"unit": ""
+		}, {
+			"ingName": "BUTTER",
+			"num": 5,
+			"denom": 4,
+			"unit": "tbsp"
+		}, {
+			"ingName": "PB CUPS or CARAMEL",
+			"unit": ""
+		}],
+		"instructions": ["Preheat oven to 350 F", "Grease and line baking tin", "Melt butter and cocoa and then add brown sugar to it", "Add eggs and beat them one at a time, then mix in the flour", "Put into the baking tin", "Bake for 30 minutes"],
+		"category": "Dessert",
+		"comments": "delicious and best with peanut butter cups"
+	},
+	{
+		"name": "Suzie's Plum Sauce",
+		"volume": 4,
+		"servings": 12,
+		"featured": false,
+		"image": "",
+		"ingredients": [{
+			"ingName": "RED PLUMS",
+			"num": 3,
+			"unit": "kg"
+		}, {
+			"ingName": "Onion",
+			"num": 1,
+			"unit": ""
+		}, {
+			"ingName": "SUGAR",
+			"num": 1,
+			"unit": "kg"
+		}, {
+			"ingName": "MALT VINEGAR",
+			"num": 3,
+			"denom": 2,
+			"unit": "liter"
+		}, {
+			"ingName": "SALT",
+			"num": 4,
+			"unit": "tsp"
+		}, {
+			"ingName": "BLACK PEPPER",
+			"num": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "CLOVES",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "GINGER",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "GINGER",
+			"num": 2,
+			"unit": "tsp"
+		}],
+		"instructions": ["Slice plums in 1/2, remove stone. Roughly chop the onion and garlic. ", "Combine all ingredients in a large pot and bring to a boil, stirring regularly", "Lower heat to a simmer and reduce until sauce consistency"],
+		"category": "Sauce",
+		"comments": "I've never made this before"
+	},
+	{
+		"name": "Homemade British Mixed Spice",
+		"volume": 4,
+		"servings": 20,
+		"featured": false,
+		"image": "",
+		"ingredients": [{
+			"ingName": "CINNAMON",
+			"num": 1,
+			"unit": "tbsp"
+		}, {
+			"ingName": "ALLSPICE",
+			"num": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "CLOVES",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "GINGER",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "CORIANDER",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "MACE",
+			"num": 3,
+			"denom": 4,
+			"unit": "tsp"
+		}],
+		"instructions": ["Combine all spices together and it will make about 1/4 c in total"],
+		"category": "Seasoning",
+		"comments": ""
+	},
+	{
+		"name": "Classic Pesto",
+		"volume": 4,
+		"servings": 4,
+		"featured": true,
+		"image": "",
+		"ingredients": [{
+			"ingName": "BASIL LEAVES",
+			"num": 4,
+			"unit": "c"
+		}, {
+			"ingName": "OLIVE OIL",
+			"num": 1,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "GARLIC",
+			"num": 2,
+			"unit": "cloves"
+		}, {
+			"ingName": "PARMESAN GRATED",
+			"num": 1,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "PECORINO OR PARMESAN",
+			"num": 1,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"unit": "tsp"
+		}],
+		"instructions": ["Using a food processor combine Basil, Garlic and Nuts", "Add Cheeses and Salt and combine", "Slowly add olive oil until mixed through"],
+		"category": "Sauce",
+		"comments": "can swap out pine nuts for pistachios or walnuts. Recipe makes about 1 cup"
+	},
+	{
+		"name": "Chocolate Coconut Fudge Jar - Dr Libby",
+		"volume": 4,
+		"servings": 8,
+		"featured": true,
+		"image": "",
+		"ingredients": [{
+			"ingName": "SHREDDED COCONUT",
+			"num": 3,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "VANILLA PASTE",
+			"num": 1,
+			"denom": 4,
+			"unit": "tsp"
+		}, {
+			"ingName": "MAPLE SYRUP",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "COCOA POWDER",
+			"num": 1,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "SALT",
+			"unit": "salt"
+		}],
+		"instructions": ["In food processor blend coconut until creamy and smooth ", "Add vanilla, maple syrup, cocoa powder, salt and blend until well combined ", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+		"category": "Dessert",
+		"comments": "Page 109 "
+	},
+	{
+		"name": "Whiskey Sour ",
+		"volume": 4,
+		"servings": 1,
+		"featured": true,
+		"image": "",
+		"ingredients": [{
+			"ingName": "EGG",
+			"num": 1,
+			"unit": "large"
+		}, {
+			"ingName": "LEMON",
+			"num": 1,
+			"unit": ""
+		}, {
+			"ingName": "SIMPLE SYRUP",
+			"num": 13,
+			"unit": "ml"
+		}, {
+			"ingName": "BOURBON WHISKEY",
+			"num": 2,
+			"unit": "oz"
+		}, {
+			"ingName": "ANGOSTURA BITTERS",
+			"num": 1,
+			"unit": "drops"
+		}],
+		"instructions": ["Mix, shake and and drink", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+		"category": "Drink",
+		"comments": "Glamorous Cocktails pg 149 "
+	},
+	{
+		"name": "Margarita",
+		"volume": 4,
+		"servings": 1,
+		"featured": true,
+		"image": "",
+		"ingredients": [{
+			"ingName": "LIME",
+			"num": 1,
+			"unit": ""
+		}, {
+			"ingName": "SIMPLE SYRUP",
+			"num": 13,
+			"unit": "ml"
+		}, {
+			"ingName": "TEQUILA",
+			"num": 35,
+			"unit": "ml"
+		}, {
+			"ingName": "TRIPLE SEC",
+			"num": 15,
+			"unit": "ml"
+		}],
+		"instructions": ["Mix together and shake with ice", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+		"category": "Drink",
+		"comments": "Glamorous Cocktails pg 147 "
+	},
+	{
+		"name": "Artist Special Park Hyatt NYC",
+		"volume": 4,
+		"servings": 1,
+		"featured": false,
+		"image": "",
+		"ingredients": [{
+			"ingName": "BOURBON",
+			"num": 1,
+			"unit": "oz"
+		}, {
+			"ingName": "OLOROSO SHERRY",
+			"num": 1,
+			"unit": "oz"
+		}, {
+			"ingName": "GRENADINE",
+			"num": 1,
+			"denom": 2,
+			"unit": "oz"
+		}, {
+			"ingName": "LEMON JUICE",
+			"num": 1,
+			"denom": 2,
+			"unit": "oz"
+		}],
+		"instructions": ["mix together with ice, serve in martini glass"],
+		"category": "Drink",
+		"comments": "Park Hyatt NYC - The Living Room bar across from Carnegie Hall "
+	},
+	{
+		"name": "Chris's Mojito",
+		"volume": 4,
+		"servings": 1,
+		"featured": false,
+		"image": "",
+		"ingredients": [{
+			"ingName": "LIME JUICE",
+			"num": 1,
+			"unit": "oz"
+		}, {
+			"ingName": "SIMPLE SYRUP",
+			"num": 20,
+			"unit": "ml"
+		}, {
+			"ingName": "MINT LEAVES",
+			"num": 12,
+			"unit": "large"
+		}, {
+			"ingName": "WHITE RUM",
+			"num": 2,
+			"unit": "oz"
+		}, {
+			"ingName": "SODA WATER",
+			"unit": "splash of"
+		}],
+		"instructions": ["Combine lime juice, sugar, and mint leaves in glass", "Add crushed ice about 3/4 way up", "Churn vigorously  with a bar spoon", "Add rum and churn again", "Top with soda water and more ice as desired"],
+		"category": "Drink",
+		"comments": "Glamorous Cocktails page 111 "
+	}
 ]
