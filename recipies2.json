@@ -578,5 +578,5 @@
 		"instructions": ["Combine lime juice, sugar, and mint leaves in glass", "Add crushed ice about 3/4 way up", "Churn vigorously  with a bar spoon", "Add rum and churn again", "Top with soda water and more ice as desired"],
 		"category": "Drink",
 		"comments": "Glamorous Cocktails page 111 "
-	}
+	}, {"name": "Simple Caramel Syrup", "ingredients": [{"ingName": "BROWN SUGAR", "num":1, "unit": "c"}, {"ingName": "BUTTER", "num":1  , "unit": "Stick"}, {"ingName": "WATER", "num":1  , "denom":4 , "unit": "c"}, {"ingName": "SALT", "num":1  , "denom":4 , "unit": "tsp"} ], "instructions": ["Combine all ingredients in a small saucepan", "Cook over medium-low heat, stirring occasionally, until everything is melted", "Simmer for about 6 minutes or until the syrup is slightly reduced and thickened to a loose honey consistency" ], "category": "Dessert", "comments": "super easy and one of the best caramel sauces "}
 ]
