@@ -1,5 +1,5 @@
 [{
-		"name": "TEST NYC Bagels", "testing":"testing 1 2 3",
+		"name": "NYC Bagels",
 		"volume": 4,
 		"servings": 8,
 		"featured": true,
@@ -581,5 +581,5 @@
 	}, {"name": "Simple Caramel Syrup", "volume": 4,
 		"servings": 12,
 		"featured": true,
-		"image": "", "ingredients": [{"ingName": "BROWN SUGAR", "num":1, "unit": "c"}, {"ingName": "BUTTER", "num":1 , "unit": "Stick"}, {"ingName": "WATER", "num":1  , "denom":4 , "unit": "c"}, {"ingName": "SALT", "num":1  , "denom":4 , "unit": "tsp"} ], "instructions": ["Combine all ingredients in a small saucepan", "Cook over medium-low heat, stirring occasionally, until everything is melted", "Simmer for about 6 minutes or until the syrup is slightly reduced and thickened to a loose honey consistency" ], "category": "Dessert", "comments": "super easy and one of the best caramel sauces "}
+		"image": "", "ingredients": [{"ingName": "BROWN SUGAR", "num":1, "unit": "c"}, {"ingName": "BUTTER", "num":1 , "unit": "Stick"}, {"ingName": "WATER", "num":1  , "denom":4 , "unit": "c"}, {"ingName": "SALT", "num":1  , "denom":4 , "unit": "tsp"} ], "instructions": ["Combine all ingredients in a small saucepan", "Cook over medium-low heat, stirring occasionally, until everything is melted", "Simmer for about 6 minutes or until the syrup is slightly reduced and thickened to a loose honey consistency" ], "category": "Dessert", "comments": "super easy and one of the best caramel sauces "}, "name": "Apricot Jam Sauce","volume":4 ,"servings":2, "featured":False"ingredients": [{"ingName": "Apricot Jam", "num": 2 , "unit": "tbsp "}, {"ingName": "Chicken Stock", "num":  1, "unit": "tbsp"}, {"ingName": "Water", "num": 1 , "denom":4 , "unit": "c"}, {"ingName": "Diced Green Onion ", "num": 2} ], "instructions": ["Sautee green onion in a little bit of oil", "Add jam, stock and water, stir and simmer for 5 to 7 min until thickened" ], "category": "Sauce", "comments": " "}
 ]
