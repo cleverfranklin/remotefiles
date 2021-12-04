@@ -633,5 +633,67 @@
 	"instructions": ["Sautee green onion in a little bit of oil", "Add jam, stock and water, stir and simmer for 5 to 7 min until thickened"],
 	"category": "Sauce",
 	"comments": " "
+}, {
+	"name": "Cranberry Pisco Sour",
+	"image": "cranberrysour",
+	"category": "Drink ",
+	"featured": true,
+	"volume": 4,
+	"servings": 1,
+	"ingredients": [{
+		"ingName": "Simple Syrup SUGAR ",
+		"num": 1,
+		"unit": "c "
+	}, {
+		"ingName": "Simple Syrup No Sugar CRANBERRY JUICE ",
+		"num": 1,
+		"unit": "c "
+	}, {
+		"ingName": "Simple Syrup CRANBERRIES ",
+		"num": 1,
+		"unit": "c "
+	}, {
+		"ingName": "PISCO BRANDY ",
+		"num": 2,
+		"unit": "oz "
+	}, {
+		"ingName": "CRANBERRY JUICE no sweet ",
+		"num": 1,
+		"unit": "oz "
+	}, {
+		"ingName": "CRAN SIMPLE SYRUP ",
+		"num": 1,
+		"denom": 2,
+		"unit": " oz"
+	}, {
+		"ingName": "LIME JUICE ",
+		"num": 1,
+		"denom": 2,
+		"unit": " oz"
+	}, {
+		"ingName": "EGG WHITE ",
+		"num": 1,
+		"denom": 2,
+		"unit": " oz"
+	}, {
+		"ingName": "BITTERS ",
+		"unit": "a few drops"
+	}],
+	"instructions": ["Make simple syrup by bringing Sugar and Cranberry Juice to a simmer and then turn off heat", "Add fresh cranberries to Syrup, allow cool, and ideally wait at least 24hrs", "Roll cranberries in fine sugar and leave out at least 1 hr to dry", "Mix all ingredients, shake vigorously for 15-20 seconds. Then add ice, shake again and strain into glass"],
+	"related": "",
+	"relatedName": "",
+	"description": "delicious seasonal cocktail",
+	"comments": "one of our absolute favorite, definitely do the egg white ",
+	"highlights": "",
+	"seasonality": "Holidays",
+	"prepTime": "30 min",
+	"cookTime": "10 min",
+	"totalTime": "",
+	"servingType": "",
+	"source": "Better Homes & Gardens Nov 2021",
+	"refPage": "97",
+	"refPhoto": "",
+	"creator": "Alan",
+	"owner": "Alan"
 }
 ]
