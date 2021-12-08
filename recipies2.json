@@ -208,7 +208,7 @@
 		"volume": 4,
 		"servings": 8,
 		"featured": false,
-		"image": "",
+		"image": "frosting",
 		"ingredients": [{
 			"ingName": "CREAM CHEESE",
 			"num": 4,
@@ -236,7 +236,7 @@
 		"volume": 4,
 		"servings": 12,
 		"featured": false,
-		"image": "",
+		"image": "hotcocoa",
 		"ingredients": [{
 			"ingName": "DRY MILK POWDER",
 			"num": 3,
@@ -360,7 +360,7 @@
 		"volume": 4,
 		"servings": 20,
 		"featured": false,
-		"image": "",
+		"image": "mixedspice",
 		"ingredients": [{
 			"ingName": "CINNAMON",
 			"num": 1,
@@ -458,7 +458,7 @@
 			"ingName": "SALT",
 			"unit": "salt"
 		}],
-		"instructions": ["In food processor blend coconut until creamy and smooth ", "Add vanilla, maple syrup, cocoa powder, salt and blend until well combined ", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+		"instructions": ["In food processor blend coconut until creamy and smooth ", "Add vanilla, maple syrup, cocoa powder, salt and blend until well combined "],
 		"category": "Dessert",
 		"comments": "Page 109 "
 	},
@@ -467,7 +467,7 @@
 		"volume": 4,
 		"servings": 1,
 		"featured": true,
-		"image": "",
+		"image": "whiskeysour",
 		"ingredients": [{
 			"ingName": "EGG",
 			"num": 1,
@@ -489,7 +489,7 @@
 			"num": 1,
 			"unit": "drops"
 		}],
-		"instructions": ["Mix, shake and and drink", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+		"instructions": ["Mix, shake and and drink"],
 		"category": "Drink",
 		"comments": "Glamorous Cocktails pg 149 "
 	},
@@ -498,7 +498,7 @@
 		"volume": 4,
 		"servings": 1,
 		"featured": true,
-		"image": "",
+		"image": "margarita",
 		"ingredients": [{
 			"ingName": "LIME",
 			"num": 1,
@@ -516,7 +516,7 @@
 			"num": 15,
 			"unit": "ml"
 		}],
-		"instructions": ["Mix together and shake with ice", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+		"instructions": ["Mix together and shake with ice"],
 		"category": "Drink",
 		"comments": "Glamorous Cocktails pg 147 "
 	},
@@ -554,7 +554,7 @@
 		"volume": 4,
 		"servings": 1,
 		"featured": false,
-		"image": "",
+		"image": "mojito",
 		"ingredients": [{
 			"ingName": "LIME JUICE",
 			"num": 1,
@@ -583,7 +583,7 @@
 	"volume": 4,
 	"servings": 12,
 	"featured": true,
-	"image": "",
+	"image": "caramelsauce",
 	"ingredients": [{
 		"ingName": "BROWN SUGAR",
 		"num": 1,
@@ -612,7 +612,7 @@
 	"volume": 4,
 	"servings": 2,
 	"featured": false,
-	"image": "",
+	"image": "apricotjamsauce",
 	"ingredients": [{
 		"ingName": "Apricot Jam",
 		"num": 2,
