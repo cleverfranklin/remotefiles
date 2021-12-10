@@ -54,12 +54,6 @@
 		"verses": "Rejoice always, pray without ceasing, in everything give thanks; for this is the will of God in Christ Jesus for you."
 	}]
 }, {
-            "id": 2,
-            "name": "New Mercy",
-            "reference": "Lamentations 3:22-23",
-            "verses": "Through the Lord’s mercies we are not consumed, because His compassions fail not.They are new every morning; Great is Your faithfulness."
-        }, {"id": 4, "name":"You Can Do All Things", "reference":"Job 42:2", "verses": "I know that You can do everything, And that no purpose of Yours can be withheld from You"}, {"id": 5, "name":"He Works It Out", "reference":"Romans 8:28", "verses": "And we know that all things work together for good to those who love God, to those who are the called according to His purpose."}]
-    }, {
         "id": 2,
         "version": "message",
         "prayerList": [{
