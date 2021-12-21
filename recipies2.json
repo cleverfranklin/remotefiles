@@ -766,5 +766,173 @@
 	"refPhoto": "",
 	"creator": "Dr. Libby",
 	"owner": "Alan"
-}
+},
+ {
+		"name": "Old-Time Gingersnaps",
+		"image": "gingersnaps",
+		"category": "Dessert",
+		"featured": true,
+		"volume": 4,
+		"servings": 18,
+		"ingredients": [{
+			"ingName": "FLOUR",
+			"num": 2,
+			"unit": "c"
+		}, {
+			"ingName": "BAKING SODA",
+			"num": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "Salt",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "GINGER",
+			"num": 2,
+			"unit": "tsp "
+		}, {
+			"ingName": "CINNAMON ",
+			"num": 3,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "CLOVES",
+			"num": 3,
+			"denom": 4,
+			"unit": "tsp"
+		}, {
+			"ingName": "BUTTER ",
+			"num": 3,
+			"denom": 4,
+			"unit": "c "
+		}, {
+			"ingName": "SUGAR",
+			"num": 1,
+			"unit": "c"
+		}, {
+			"ingName": "MOLASSES ",
+			"num": 1,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "EGG",
+			"num": 1,
+			"unit": "large "
+		}, {
+			"ingName": "EGG",
+			"num": 1,
+			"unit": "large "
+		}],
+		"instructions": ["Whisk all dry ingredients together", "Combine butter, sugar and molasses in bowl and stir. Add egg and stir and then add dry ingredients and combine. ", "Cover bowl and refrigerate at least 2 hrs or overnight", "Shape dough into walnut sized balls, roll in sugar and place 2 inches apart. ", "Base on 350 for between 10-12 minutes until the cookies have spread, are light golden brown, and the cracks still appear moist"],
+		"related": "",
+		"relatedName": "",
+		"description": "delicious ginger snaps or softies",
+		"comments": "everyone loves these cookies and simple to make ",
+		"highlights": "",
+		"seasonality": "Holidays",
+		"prepTime": "15 min",
+		"cookTime": "10 to 12 min",
+		"totalTime": "",
+		"servingType": "",
+		"source": "Gingerbread Recipe book",
+		"refPage": "39",
+		"refPhoto": "",
+		"creator": "Alan",
+		"owner": "Alan"
+	},
+	{
+		"name": "Chocolate-Ginger Crinkle Cookies",
+		"image": "chocolategingercrinkle",
+		"category": "Dessert",
+		"featured": true,
+		"volume": 4,
+		"servings": 18,
+		"ingredients": [{
+			"ingName": "FLOUR ",
+			"num": 3,
+			"denom": 4,
+			"unit": "c "
+		}, {
+			"ingName": " COCOA POWDER",
+			"num": 1,
+			"denom": 4,
+			"unit": "c "
+		}, {
+			"ingName": "BAKING POWDER",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "SALT ",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp "
+		}, {
+			"ingName": "GINGER",
+			"num": 3,
+			"denom": 2,
+			"unit": "tsp "
+		}, {
+			"ingName": "CINNAMON",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "BUTTER",
+			"num": 1,
+			"denom": 2,
+			"unit": "c "
+		}, {
+			"ingName": "CHOCOLATE CHIPS ",
+			"num": 8,
+			"unit": "oz "
+		}, {
+			"ingName": "SUGAR ",
+			"num": 3,
+			"denom": 4,
+			"unit": "c "
+		}, {
+			"ingName": "BROWN SUGAR",
+			"num": 1,
+			"denom": 4,
+			"unit": "c packed"
+		}, {
+			"ingName": "BROWN SUGAR",
+			"num": 1,
+			"denom": 4,
+			"unit": "c packed"
+		}, {
+			"ingName": "EGGS ",
+			"num": 2,
+			"unit": "large "
+		}, {
+			"ingName": "VANILLA ",
+			"num": 1,
+			"unit": "tsp "
+		}, {
+			"ingName": "CRYSTALLIZED GINGER",
+			"num": 1,
+			"denom": 4,
+			"unit": "c chopped "
+		}, {
+			"ingName": "POWDERED SUGAR",
+			"num": 1,
+			"unit": "small bowl "
+		}],
+		"instructions": ["Combine butter and half the chocolate, melt over a double boiler. Remove from heat for 10 minutes. ", "Add both sugars into the chocolate. Then add an egg at a time. Then add vanilla and the flour. Then add the remaining chocolate chips and ginger. Cover dough and refrigerate for 2 to 24 hours", "Shape dough into walnut size balls, roll in powdered sugar, and arrange 2 inches apart. ", "Bake at 350F for 10 to 12 minutes"],
+		"related": "",
+		"relatedName": "",
+		"description": "delicious brownie like cookies",
+		"comments": "the spices can be removed and either replaced with mint flavor or even peanut butter cups ",
+		"highlights": "",
+		"seasonality": "Holidays",
+		"prepTime": "20",
+		"cookTime": "10 to 12 min",
+		"totalTime": "",
+		"servingType": "",
+		"source": "Gingerbread Recipe Book",
+		"refPage": "51",
+		"refPhoto": "",
+		"creator": "Alan",
+		"owner": "Alan"
+	}
 ]
