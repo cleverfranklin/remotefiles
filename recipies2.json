@@ -176,7 +176,9 @@
 			"num": 400,
 			"unit": "g"
 		}, {
-			"ingName": "SUGAR",
+			"ingName": "SALT", "num":3, "denom":4,  "unit": "tbsp"
+		},
+			{"ingName": "SUGAR",
 			"num": 2,
 			"unit": "tbsp"
 		}, {
