@@ -993,5 +993,50 @@
 	"refPhoto": "",
 	"creator": "Sally",
 	"owner": "Alan"
+},
+ {
+	"name": "Butter Icing Edmonds",
+	"image": "buttericing",
+	"category": "Dessert",
+	"featured": false,
+	"volume": 4,
+	"servings": 1,
+	"ingredients": [{
+		"ingName": "BUTTER SOFTENED",
+		"num": 100,
+		"unit": "g"
+	}, {
+		"ingName": "VANILLA ",
+		"num": 1,
+		"denom": 4,
+		"unit": "tsp"
+	}, {
+		"ingName": " POWDER SUGAR",
+		"num": 2,
+		"unit": "c "
+	}, {
+		"ingName": "HOT WATER ",
+		"unit": "1 or 2 tbsp "
+	}, {
+		"ingName": "OPTIONAL COCOA POWDER ",
+		"num": 2,
+		"unit": "tbsp "
+	}],
+	"instructions": ["Cream butter until light and fluffy and then add vanilla or other flavoring", "Beat powder sugar into butter until smooth and then cocoa powder if you want chocolate", "Add hot water slowly until it reaches optimal consistency"],
+	"related": "",
+	"relatedName": "",
+	"description": "Easy and delicious butter icing",
+	"comments": "this is the best for light and fluffy  ",
+	"highlights": "",
+	"seasonality": "",
+	"prepTime": "10 min",
+	"cookTime": "none",
+	"totalTime": "",
+	"servingType": "",
+	"source": "Edmonds Cookbook",
+	"refPage": "76",
+	"refPhoto": "",
+	"creator": "Edmonds",
+	"owner": "Alan"
 }
 ]
