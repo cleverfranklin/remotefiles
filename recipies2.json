@@ -1038,5 +1038,90 @@
 	"refPhoto": "",
 	"creator": "Edmonds",
 	"owner": "Alan"
-}
+},
+ {
+		"name": "Squash salad dressing from Ashley",
+		"image": "ashleydressing",
+		"category": "Sauce",
+		"featured": false,
+		"volume": 1,
+		"servings": 1,
+		"ingredients": [{
+			"ingName": "EVOO",
+			"num": 2,
+			"unit": "tbsp "
+		}, {
+			"ingName": "MAPLE SYRUP",
+			"num": 1,
+			"unit": "tsp "
+		}, {
+			"ingName": "APPLE CIDER VINEGAR",
+			"num": 1,
+			"unit": "tbsp "
+		}, {
+			"ingName": "SALT",
+			"unit": "pinch "
+		}, {
+			"ingName": "PEPPER",
+			"unit": "pinch "
+		}],
+		"instructions": ["Mix all ingredients together, shake and top your salad"],
+		"related": "",
+		"relatedName": "",
+		"description": "Nice dressing Ashley used in recipe for table 10",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "5 min",
+		"cookTime": "none",
+		"totalTime": "",
+		"servingType": "",
+		"source": "unknown",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "Ashley",
+		"owner": "Alan"
+	},
+	{
+		"name": "Cooked Cinnamon Apples",
+		"image": "cookedapples",
+		"category": "Side",
+		"featured": false,
+		"volume": 4,
+		"servings": 1,
+		"ingredients": [{
+			"ingName": "GRANNY SMITH APPLES ",
+			"num": 2,
+			"unit": " whole"
+		}, {
+			"ingName": "BUTTER ",
+			"num": 2,
+			"unit": " tbsp"
+		}, {
+			"ingName": "BROWN SUGAR ",
+			"num": 2,
+			"unit": " tbsp"
+		}, {
+			"ingName": "CINNAMON",
+			"num": 1,
+			"denom": 4,
+			"unit": "tsp "
+		}],
+		"instructions": ["Core, peel and cut apples into slices", "Melt butter in a skillet over medium heat, add Apples, sprinkle with brown sugar and cinnamon. Cook for 4 or 5 minutes until softened and coated. "],
+		"related": "",
+		"relatedName": "",
+		"description": "Stewed apples great in pancakes, as topping, or in baked goods",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "5 min",
+		"cookTime": "5 min",
+		"totalTime": "",
+		"servingType": "",
+		"source": "Marlety & Spoon Dutch Pancakes Recipe",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "Marley & Spoon",
+		"owner": "Alan"
+	}
 ]
