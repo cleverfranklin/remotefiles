@@ -436,7 +436,7 @@
 		"volume": 4,
 		"servings": 8,
 		"featured": true,
-		"image": "",
+		"image": "coconutfudge",
 		"ingredients": [{
 			"ingName": "SHREDDED COCONUT",
 			"num": 3,
