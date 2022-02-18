@@ -156,6 +156,41 @@
 		"instructions": ["Heat over to 475 with cast iron in the oven", "Shape dough and then proof for up to 30 min while oven is heating", "Bake 30 minutes with the lid on (or foil) and then 25-30 min with the lid off"],
 		"category": "Snack"
 	},
+ {
+		"name": "Overnight Bread Weights",
+		"volume": 4,
+		"servings": 24,
+		"featured": true,
+		"image": "bread",
+		"ingredients": [
+			{
+			"ingName": "YEAST",
+			"num": 3,
+			"unit": "g"
+		}, {
+			"ingName": "WHOLE WHEAT FLOUR",
+			"num": 600,
+			"unit": "g"
+		}, {
+			"ingName": "BREAD FLOUR",
+			"num": 400,
+			"unit": "g"
+		},  {
+			"ingName": "HOT WATER",
+			"num": 320,
+			"unit": "g"
+		}, {
+			"ingName": "COLD WATER",
+			"num": 480,
+			"unit": "g"
+		}, {
+			"ingName": "SALT",
+			"num": 22,
+			"unit": "g"
+		} ],
+		"instructions": ["Heat over to 475 with cast iron in the oven", "Shape dough and then proof for up to 30 min while oven is heating", "Bake 30 minutes with the lid on (or foil) and then 25-30 min with the lid off"],
+		"category": "Snack"
+	},
 	{
 		"name": "Cinnamon Rolls ",
 		"volume": 4,
