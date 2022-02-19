@@ -615,7 +615,104 @@
 		"instructions": ["Combine lime juice, sugar, and mint leaves in glass", "Add crushed ice about 3/4 way up", "Churn vigorously  with a bar spoon", "Add rum and churn again", "Top with soda water and more ice as desired"],
 		"category": "Drink",
 		"comments": "Glamorous Cocktails page 111 "
+	},
+ {
+	"name": "Sticky Toffee Gingerbread Pudding",
+	"image": "stickytoffeegingerbreadpudding",
+	"category": "Dessert",
+	"featured": true,
+	"volume": 4,
+	"servings": 10,
+	"ingredients": [{
+		"ingName": "Pitted Dates chopped ",
+		"num": 5,
+		"denom": 4,
+		"unit": " c"
 	}, {
+		"ingName": "Water ",
+		"num": 3,
+		"denom": 4,
+		"unit": " c"
+	}, {
+		"ingName": "Espresso ",
+		"num": 1,
+		"denom": 4,
+		"unit": " c"
+	}, {
+		"ingName": "Baking Powder ",
+		"num": 3,
+		"denom": 2,
+		"unit": " tsp"
+	}, {
+		"ingName": "SALT",
+		"num": 1,
+		"denom": 2,
+		"unit": " tsp"
+	}, {
+		"ingName": "CLOVES ",
+		"num": 1,
+		"denom": 2,
+		"unit": "tsp"
+	}, {
+		"ingName": "Nutmeg ",
+		"num": 1,
+		"denom": 4,
+		"unit": "tsp"
+	}, {
+		"ingName": "COCOA POWDER",
+		"num": 1,
+		"unit": "tsp"
+	}, {
+		"ingName": "COCOA POWDER",
+		"num": 1,
+		"unit": "tsp"
+	}, {
+		"ingName": "FLOUR",
+		"num": 1,
+		"unit": "c"
+	}, {
+		"ingName": "GINGER",
+		"num": 1,
+		"unit": "tsp"
+	}, {
+		"ingName": "CINNAMON",
+		"num": 1,
+		"unit": "tsp"
+	}, {
+		"ingName": "BUTTER soft ",
+		"num": 1,
+		"denom": 2,
+		"unit": " c"
+	}, {
+		"ingName": "MOLASSES",
+		"num": 5,
+		"unit": "tbsp"
+	}, {
+		"ingName": "HEAVY CREAM",
+		"num": 2,
+		"unit": "tbsp"
+	}, {
+		"ingName": "EGG",
+		"num": 1,
+		"unit": "large"
+	}],
+	"instructions": ["Combine DATES, WATER, ESPRESSO and COCOA POWDER in saucepan, bring to boil then reduce and simmer for 5 minutes", "Whisk FLOUR, BAKING POWDER, SALT, GINGER, CINNAMON, CLOVES, NUTMEG. ", "Beat BUTTER in a mixer, add MOLASSES and then CREAM, EGG and beat for 2 minutes. Add FLOUR mixture and then add DATE mixture. ", "Put batter into 8x2 round cake pan and bake at 325F for about 25 minutes until top is lightly cracked. Make the syrup from the caramel syrup recipe. ", "Poke holes in the hot cake and pour about half of the caramel over the cake. Let rest about 30 min still in the pan.", "Flip cake out of pan onto serving platter, poke holes again and pour over remaining caramel. Let it sit 10 minutes before serving. "],
+	"related": "",
+	"relatedName": "",
+	"description": "delicious heavy gingerbread pudding",
+	"comments": " ",
+	"highlights": "",
+	"seasonality": "Holidays",
+	"prepTime": "1 hr",
+	"cookTime": "25 min",
+	"totalTime": "",
+	"servingType": "",
+	"source": "Gingerbread Recipe by Jennifer McGlinn",
+	"refPage": "72",
+	"refPhoto": "",
+	"creator": "Gingerbread Recipe book",
+	"owner": "Alan"
+},{
 	"name": "Simple Caramel Syrup",
 	"volume": 4,
 	"servings": 12,
