@@ -1,4 +1,65 @@
-[{"id": 0, "version": "niv",  "prayerList":[{"id": 0, "name":"The Lord's Prayer", "reference":"Matthew 6:9-13", "verses": "Our Father in heaven, hallowed be your name, your kingdom come your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one." }, {"id": 1, "name":"Psalm 91", "reference":"Psalm 91:1-16", "verses":"Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the Lord, 'He is my refuge and my fortress, my God, in whom I trust.' Surely he will save you from the fowler’s snare and from the deadly pestilence. He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart. You will not fear the  error of night, nor the arrow that flies by day, nor the pestilence that stalks in the darkness, nor the plague that destroys at midday. A thousand may fall at your side, ten thousand at your right hand, but it will not come near you. You will only observe with your eyes and see the punishment of the wicked. If you say, 'The Lordis my refuge,' and you make the Most High your dwelling, no harm will overtake you, no disaster will come near your tent. For he will command his angels concerning you to guard you in all your ways; they will lift you up in their hands, so that you will not strike your foot against a stone. You will tread on the lion and the cobra; you will trample the great lion and the serpent. 'Because he loves me,' says the Lord, 'I will rescue him; I will protect him, for he  acknowledges my name. He will call on me, and I will answer him; I will be with him in trouble, I will deliver him and honor him. With long life I will satisfy him and show him my salvation." }, {"id": 2, "name":"New Mercy", "reference":"Lamentations 3:22-23", "verses":"Because of the LORD’s great love we are not consumed, for his compassions never fail." }, {"id": 4, "name":"You Can Do All Things", "reference":"Job 42:2", "verses": "I know that you can do all things; no purpose of yours can be thwarted."}, {"id": 5, "name":"He Works It Out", "reference":"Romans 8:28", "verses": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."}, {"id": 6, "name":"The Blessing", "reference":"Numbers 6:24-26", "verses": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; The Lord turn his face toward you and give you peace."}, {"id": 7, "name":"Prayer of Jabez", "reference":"1 Chronicles 4:10", "verses": "Jabez cried out to the God of Israel, 'Oh, that you would bless me and enlarge my territory. Let your hand be with me, and keep me from harm so that I will be free from pain.' And God granted his request."}, {"id": 8, "name":"Immeasurable Power", "reference":"Ephesians 1:18-19", "verses": " I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people, and his incomparably great power for us who believe. That power is the same as the mighty strength"}, {"id": 9, "name":"Give Grateful Praise", "reference":"Psalm 100", "verses": "Shout for joy to the Lord, all the earth. Worship the Lord with gladness; come before him with joyful songs. Know that the Lord is God. It is he who made us, and we are his; we are his people, the sheep of his pasture.  Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name. For the Lord is good and his love endures forever; his faithfulness continues through all generations."}, {"id": 10, "name":"Be Thankful and Pray", "reference":"1 Thessalonians 5:16-18", "verses": "Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus"}]},
+[{
+	"id": 0,
+	"version": "niv",
+	"prayerList": [{
+			"id": 0,
+			"name": "The Lord's Prayer",
+			"reference": "Matthew 6:9-13",
+			"verses": "Our Father in heaven, hallowed be your name, your kingdom come your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one."
+		}, {
+			"id": 1,
+			"name": "Psalm 91",
+			"reference": "Psalm 91:1-16",
+			"verses": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the Lord, 'He is my refuge and my fortress, my God, in whom I trust.' Surely he will save you from the fowler’s snare and from the deadly pestilence. He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart. You will not fear the  error of night, nor the arrow that flies by day, nor the pestilence that stalks in the darkness, nor the plague that destroys at midday. A thousand may fall at your side, ten thousand at your right hand, but it will not come near you. You will only observe with your eyes and see the punishment of the wicked. If you say, 'The Lordis my refuge,' and you make the Most High your dwelling, no harm will overtake you, no disaster will come near your tent. For he will command his angels concerning you to guard you in all your ways; they will lift you up in their hands, so that you will not strike your foot against a stone. You will tread on the lion and the cobra; you will trample the great lion and the serpent. 'Because he loves me,' says the Lord, 'I will rescue him; I will protect him, for he  acknowledges my name. He will call on me, and I will answer him; I will be with him in trouble, I will deliver him and honor him. With long life I will satisfy him and show him my salvation."
+		}, {
+			"id": 2,
+			"name": "New Mercy",
+			"reference": "Lamentations 3:22-23",
+			"verses": "Because of the LORD’s great love we are not consumed, for his compassions never fail."
+		}, {
+			"id": 4,
+			"name": "You Can Do All Things",
+			"reference": "Job 42:2",
+			"verses": "I know that you can do all things; no purpose of yours can be thwarted."
+		}, {
+			"id": 5,
+			"name": "He Works It Out",
+			"reference": "Romans 8:28",
+			"verses": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+		}, {
+			"id": 6,
+			"name": "The Blessing",
+			"reference": "Numbers 6:24-26",
+			"verses": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; The Lord turn his face toward you and give you peace."
+		}, {
+			"id": 7,
+			"name": "Prayer of Jabez",
+			"reference": "1 Chronicles 4:10",
+			"verses": "Jabez cried out to the God of Israel, 'Oh, that you would bless me and enlarge my territory. Let your hand be with me, and keep me from harm so that I will be free from pain.' And God granted his request."
+		}, {
+			"id": 8,
+			"name": "Immeasurable Power",
+			"reference": "Ephesians 1:18-19",
+			"verses": " I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people, and his incomparably great power for us who believe. That power is the same as the mighty strength"
+		}, {
+			"id": 9,
+			"name": "Give Grateful Praise",
+			"reference": "Psalm 100",
+			"verses": "Shout for joy to the Lord, all the earth. Worship the Lord with gladness; come before him with joyful songs. Know that the Lord is God. It is he who made us, and we are his; we are his people, the sheep of his pasture.  Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name. For the Lord is good and his love endures forever; his faithfulness continues through all generations."
+		}, {
+			"id": 10,
+			"name": "Be Thankful and Pray",
+			"reference": "1 Thessalonians 5:16-18",
+			"verses": "Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus"
+		},
+		{
+			"id": 11,
+			"name": "The Shepherd",
+			"reference": "Psalm 23",
+			"verses": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name’s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever."
+		}
+	]
+},
  {
 	"id": 1,
 	"version": "nkjv",
@@ -52,127 +113,107 @@
 		"name": "Be Thankful and Pray",
 		"reference": "1 Thessalonians 5:16-18",
 		"verses": "Rejoice always, pray without ceasing, in everything give thanks; for this is the will of God in Christ Jesus for you."
+	}, {
+		"id": 11,
+		"name": "The Shepherd",
+		"reference": "Psalm 23",
+		"verses": "The Lord is my shepherd; I shall not want. He makes me to lie down in green pastures; He leads me beside the still waters. He restores my soul; He leads me in the paths of righteousness For His name’s sake.  4 Yea, though I walk through the valley of the shadow of death, I will fear no evil; For You are with me; Your rod and Your staff, they comfort me.  5 You prepare a table before me in the presence of my enemies; You anoint my head with oil; My cup runs over. Surely goodness and mercy shall follow me All the days of my life; And I will dwell in the house of the Lord Forever."
 	}]
 },
  {
-	"id": 2,
-	"version": "message",
-	"prayerList": [{
-			"id": 0,
-			"name": "The Lord's Prayer",
-			"reference": "Matthew 6:9-13",
-			"verses": "Our Father in heaven, Reveal who you are. Set the world right; Do what’s best— as above, so below. Keep us alive with three square meals. Keep us forgiven with you and forgiving others. Keep us safe from ourselves and the Devil. You’re in charge! You can do anything you want!You’re ablaze in beauty! Yes. Yes. Yes."
-		}, {
-			"id": 1,
-			"name": "Psalm 91",
-			"reference": "Psalm 91:1-16",
-			"verses": "You who sit down in the High God’s presence, spend the night in Shaddai’s shadow, Say this: 'God, you’re my refuge. I trust in you and I’m safe!' That’s right—he rescues you from hidden traps, shields you from deadly hazards. His huge outstretched arms protect you— under them you’re perfectly safe; his arms fend off all harm. Fear nothing—not wild wolves in the night, not flying arrows in the day, Not disease that prowls through the darkness, not disaster that erupts at high noon. Even though others succumb all around, drop like flies right and left, no harm will even graze you. You’ll stand untouched, watch it all from a distance, watch the wicked turn into corpses. Yes, because God’s your refuge, the High God your very own home, Evil can’t get close to you, harm can’t get through the door. He ordered his angels to guard you wherever you go. If you stumble, they’ll catch you; their job is to keep you from falling. You’ll walk unharmed among  lions and snakes, and kick young lions and serpents from the path. 'If you’ll hold on to me for dear life,' says God, 'I’ll get you out of any trouble. I’ll give you the best of care if you’ll only get to know and trust me. Call me and I’ll answer, be at your side in bad times; I’ll rescue you, then throw you a party. I’ll give you a long life, give you a long drink of salvation!'"
-		}, {
-			"id": 2,
-			"name": "New Mercy",
-			"reference": "Lamentations 3:22-23",
-			"verses": "GOD’s loyal love couldn’t have run out, his merciful love couldn’t have dried up. They’re created new every morning. How great your faithfulness! I’m sticking with GOD (I say it over and over). He’s all I’ve got left."
-		}, {
-			"id": 4,
-			"name": "You Can Do All Things",
-			"reference": "Job 42:2",
-			"verses": "I’m convinced: You can do anything and everything.  Nothing and no one can upset your plans."
-		},
-		{
-			"id": 5,
-			"name": "He Works It Out",
-			"reference": "Romans 8:28",
-			"verses": "That’s why we can be so sure that every detail in our lives of love for God is worked into something good."
-		}, {
-			"id": 6,
-			"name": "The Blessing",
-			"reference": "Numbers 6:24-26",
-			"verses": "God bless you and keep you, God smile on you and gift you, God look you full in the face and make you prosper."
-		}, {
-			"id": 7,
-			"name": "Prayer of Jabez",
-			"reference": "1 Chronicles 4:10",
-			"verses": "Jabez prayed to the God of Israel: Bless me, O bless me! Give me land, large tracts of land. And provide your personal protection - don't let evil hurt me. God gave him what he asked."
-		}, {
-			"id": 8,
-			"name": "Immeasurable Power",
-			"reference": "Ephesians 1:18-19",
-			"verses": "But I do more than thank. I ask—ask the God of our Master, Jesus Christ, the God of glory—to make you intelligent and discerning in knowing him personally, your eyes focused and clear, so that you can see exactly what it is he is calling you to do, grasp the immensity of this glorious way of life he has for his followers, oh, the utter extravagance of his work in us who trust him—endless energy, boundless strength!"
-		}, {
-			"id": 9,
-			"name": "Give Grateful Praise",
-			"reference": "Psalm 100",
-			"verses": "On your feet now—applaud God! Bring a gift of laughter, sing yourselves into his presence.  Know this: God is God, and God, God. He made us; we didn’t make him. We’re his people, his well-tended sheep.  Enter with the password: 'Thank you!' Make yourselves at home, talking praise. Thank him. Worship him.  For God is sheer beauty, all-generous in love, loyal always and ever."
-		}, {
-			"id": 10,
-			"name": "Be Thankful and Pray",
-			"reference": "1 Thessalonians 5:16-18",
-			"verses": "Be cheerful no matter what; pray all the time; thank God no matter what happens. This is the way God wants you who belong to Christ Jesus to live."
-		}
-	]
+        "id": 2,
+        "version": "message",
+        "prayerList": [{
+                        "id": 0,
+                        "name": "The Lord's Prayer",
+                        "reference": "Matthew 6:9-13",
+                        "verses": "Our Father in heaven, Reveal who you are. Set the world right; Do what’s best— as above, so below. Keep us alive with three square meals. Keep us forgiven with you and forgiving others. Keep us safe from ourselves and the Devil. You’re in charge! You can do anything you want!You’re ablaze in beauty! Yes. Yes. Yes."
+                }, {
+                        "id": 1,
+                        "name": "Psalm 91",
+                        "reference": "Psalm 91:1-16",
+                        "verses": "You who sit down in the High God’s presence, spend the night in Shaddai’s shadow, Say this: 'God, you’re my refuge. I trust in you and I’m safe!' That’s right—he rescues you from hidden traps, shields you from deadly hazards. His huge outstretched arms protect you— under them you’re perfectly safe; his arms fend off all harm. Fear nothing—not wild wolves in the night, not flying arrows in the day, Not disease that prowls through the darkness, not disaster that erupts at high noon. Even though others succumb all around, drop like flies right and left, no harm will even graze you. You’ll stand untouched, watch it all from a distance, watch the wicked turn into corpses. Yes, because God’s your refuge, the High God your very own home, Evil can’t get close to you, harm can’t get through the door. He ordered his angels to guard you wherever you go. If you stumble, they’ll catch you; their job is to keep you from falling. You’ll walk unharmed among  lions and snakes, and kick young lions and serpents from the path. 'If you’ll hold on to me for dear life,' says God, 'I’ll get you out of any trouble. I’ll give you the best of care if you’ll only get to know and trust me. Call me and I’ll answer, be at your side in bad times; I’ll rescue you, then throw you a party. I’ll give you a long life, give you a long drink of salvation!'"
+                }, {
+                        "id": 2,
+                        "name": "New Mercy",
+                        "reference": "Lamentations 3:22-23",
+                        "verses": "GOD’s loyal love couldn’t have run out, his merciful love couldn’t have dried up. They’re created new every morning. How great your faithfulness! I’m sticking with GOD (I say it over and over). He’s all I’ve got left."
+                }, {
+                        "id": 4,
+                        "name": "You Can Do All Things",
+                        "reference": "Job 42:2",
+                        "verses": "I’m convinced: You can do anything and everything.  Nothing and no one can upset your plans."
+                },
+                {
+                        "id": 5,
+                        "name": "He Works It Out",
+                        "reference": "Romans 8:28",
+                        "verses": "That’s why we can be so sure that every detail in our lives of love for God is worked into something good."
+                }, {
+                        "id": 6,
+                        "name": "The Blessing",
+                        "reference": "Numbers 6:24-26",
+                        "verses": "God bless you and keep you, God smile on you and gift you, God look you full in the face and make you prosper."
+                }, {
+                        "id": 7,
+                        "name": "Prayer of Jabez",
+                        "reference": "1 Chronicles 4:10",
+                        "verses": "Jabez prayed to the God of Israel: Bless me, O bless me! Give me land, large tracts of land. And provide your personal protection - don't let evil hurt me. God gave him what he asked."
+                }, {
+                        "id": 8,
+                        "name": "Immeasurable Power",
+                        "reference": "Ephesians 1:18-19",
+                        "verses": "But I do more than thank. I ask—ask the God of our Master, Jesus Christ, the God of glory—to make you intelligent and discerning in knowing him personally, your eyes focused and clear, so that you can see exactly what it is he is calling you to do, grasp the immensity of this glorious way of life he has for his followers, oh, the utter extravagance of his work in us who trust him—endless energy, boundless strength!"
+                }, {
+                        "id": 9,
+                        "name": "Give Grateful Praise",
+                        "reference": "Psalm 100",
+                        "verses": "On your feet now—applaud God! Bring a gift of laughter, sing yourselves into his presence.  Know this: God is God, and God, God. He made us; we didn’t make him. We’re his people, his well-tended sheep.  Enter with the password: 'Thank you!' Make yourselves at home, talking praise. Thank him. Worship him.  For God is sheer beauty, all-generous in love, loyal always and ever."
+                }, {
+                        "id": 10,
+                        "name": "Be Thankful and Pray",
+                        "reference": "1 Thessalonians 5:16-18",
+                        "verses": "Be cheerful no matter what; pray all the time; thank God no matter what happens. This is the way God wants you who belong to Christ Jesus to live."
+                }, {"id": 11, "name":"The Shepherd", "reference":"Psalm 23", "verses": "God, my shepherd! I don’t need a thing. You have bedded me down in lush meadows, you find me quiet pools to drink from. True to your word, you let me catch my breath and send me in the right direction.  Even when the way goes through Death Valley, I’m not afraid when you walk at my side. Your trusty shepherd’s crook makes me feel secure.  You serve me a six-course dinner right in front of my enemies. You revive my drooping head; my cup brims with blessing.  Your beauty and love chase after me  every day of my life. I’m back home in the house of God for the rest of my life."}
+        ]
 }, {
-	"id": 3,
-	"version": "amplified",
-	"prayerList": [{
-			"id": 0,
-			"name": "The Lord's Prayer",
-			"reference": "Matthew 6:9-13",
-			"verses": "Our Father Who is in heaven, hallowed (kept holy) be Your name. Your kingdom come, Your will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we also have forgiven (left, remitted, and let go of the debts, and have given up resentment against) our debtors. And lead (bring) us not into temptation, but deliver us from the evil one. For Yours is the kingdom and the power and the glory forever. Amen."
-		}, {
-			"id": 1,
-			"name": "Psalm 91",
-			"reference": "Psalm 91:1-16",
-			"verses": "HE WHO dwells in the secret place of the Most High shall remain stable andfixed under the shadow of the Almighty (Whose power no foe can withstand).  I will say of the Lord, He is my Refuge and my Fortress, my God; on Him I lean andrely, andin Him I (confidently) trust!  For (then) He will deliver you from the snare of the fowler and from the deadly pestilence.  (Then) He will cover you with His pinions, and under His wings shall you trust andfind refuge; His truth andHis faithfulness are a shield and a buckler. You shall not be afraid of the terror of the night, nor of the arrow (the evil plots and slanders of the wicked) that flies by day,  Nor of the pestilence that stalks in darkness, nor of the destruction andsudden death that surprise andlay waste at noonday.  A thousand may fall at your side, and ten thousand at your right hand, but it shall not come near you.  Only a spectator shall you be (yourself inaccessible in the secret place of the Most High) as you witness the reward of the wicked.  Because you have made the Lord your refuge, and the Most High your dwelling place, (Ps. 91:1, 14.)  There shall no evil befall you, nor any plague orcalamity come near your tent.For He will give His angels (especial) charge over you to accompany anddefend andpreserve you in all your ways (of obedience and service). They shall bear you up on their hands, lest you dash your foot against a stone. (Luke 4:10, 11; Heb. 1:14.) You shall tread upon the lion and adder; the young lion and the serpent shall you trample underfoot. (Luke 10:19.)  Because he has set his love upon Me, therefore will I deliver him; I will set him on high, because he knows  and understands My name (has a personal knowledge of My mercy, love, and kindness–trusts and relies on Me, knowing I will never forsake him, no, never).  He shall call upon Me, and I will answer him; I will be with him in trouble, I will deliver him and honor him. With long life will I satisfy him and show him My salvation."
-		}, {
-			"id": 2,
-			"name": "New Mercy",
-			"reference": "Lamentations 3:22-23",
-			"verses": "It is because of the LORD’S lovingkindnesses that we are not consumed, Because His (tender) compassions never fail. They are new every morning; Great and beyond measure is Your faithfulness."
-		}, {
-			"id": 4,
-			"name": "You Can Do All Things",
-			"reference": "Job 42:2",
-			"verses": "I know that You can do all things, And that no thought or purpose of Yours can be restrained."
-		},
-		{
-			"id": 5,
-			"name": "He Works It Out",
-			"reference": "Romans 8:28",
-			"verses": "And we know (with great confidence) that God (who is deeply concerned about us) causes all things to work together (as a plan) for good for those who love God, to those who are called according to His plan and purpose."
-		},
-		{
-			"id": 6,
-			"name": "The Blessing",
-			"reference": "Numbers 6:24-26",
-			"verses": "The Lord bless you, and keep you (protect you, sustain you, and guard you);  The Lord make His face shine upon you (with favor), And be gracious to you (surrounding you with lovingkindness); The Lord lift up His countenance (face) upon you (with divine approval), And give you peace (a tranquil heart and life)"
-		},
-		{
-			"id": 7,
-			"name": "Prayer of Jabez",
-			"reference": "1 Chronicles 4:10",
-			"verses": "Jabez cried out to the God of Israel, saying, “Oh that You would indeed bless me and enlarge my border (property), and that Your hand would be with me, and You would keep me from evil so that it does not hurt me!” And God granted his request."
-		},
-		{
-			"id": 8,
-			"name": "Immeasurable Power",
-			"reference": "Ephesians 1:18-19",
-			"verses": "And (I pray) that the eyes of your heart (the very center and core of your being) may be enlightened (flooded with light by the Holy Spirit), so that you will know and cherish the hope (the divine guarantee, the confident expectation) to which He has called you, the riches of His glorious inheritance in the saints (God’s people), and (so that you will begin to know) what the immeasurable and unlimited and surpassing greatness of His (active, spiritual) power is in us who believe. These are in accordance with the working of His mighty strength"
-		},
-		{
-			"id": 9,
-			"name": "Give Grateful Praise",
-			"reference": "Psalm 100",
-			"verses": "Make a joyful shout to the Lord, all you lands! Serve the Lord with gladness; Come before His presence with singing. Know that the Lord, He is God; It is He who has made us, and not we ourselves; We are His people and the sheep of His pasture.  Enter into His gates with thanksgiving, And into His courts with praise. Be thankful to Him, and bless His name. For the Lord is good; His mercy is everlasting, And His truth endures to all generations."
-		}, {
-			"id": 10,
-			"name": "Be Thankful and Pray",
-			"reference": "1 Thessalonians 5:16-18",
-			"verses": "Rejoice always and delight in your faith; be unceasing and persistent in prayer; in every situation (no matter what the circumstances) be thankful and continually give thanks to God; for this is the will of God for you in Christ Jesus. "
-		}
+        "id": 3,
+        "version": "amplified",
+        "prayerList": [{
+                        "id": 0,
+                        "name": "The Lord's Prayer",
+                        "reference": "Matthew 6:9-13",
+                        "verses": "Our Father Who is in heaven, hallowed (kept holy) be Your name. Your kingdom come, Your will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we also have forgiven (left, remitted, and let go of the debts, and have given up resentment against) our debtors. And lead (bring) us not into temptation, but deliver us from the evil one. For Yours is the kingdom and the power and the glory forever. Amen."
+                }, {
+                        "id": 1,
+                        "name": "Psalm 91",
+                        "reference": "Psalm 91:1-16",
+                        "verses": "HE WHO dwells in the secret place of the Most High shall remain stable andfixed under the shadow of the Almighty (Whose power no foe can withstand).  I will say of the Lord, He is my Refuge and my Fortress, my God; on Him I lean andrely, andin Him I (confidently) trust!  For (then) He will deliver you from the snare of the fowler and from the deadly pestilence.  (Then) He will cover you with His pinions, and under His wings shall you trust andfind refuge; His truth andHis faithfulness are a shield and a buckler. You shall not be afraid of the terror of the night, nor of the arrow (the evil plots and slanders of the wicked) that flies by day,  Nor of the pestilence that stalks in darkness, nor of the destruction andsudden death that surprise andlay waste at noonday.  A thousand may fall at your side, and ten thousand at your right hand, but it shall not come near you.  Only a spectator shall you be (yourself inaccessible in the secret place of the Most High) as you witness the reward of the wicked.  Because you have made the Lord your refuge, and the Most High your dwelling place, (Ps. 91:1, 14.)  There shall no evil befall you, nor any plague orcalamity come near your tent.For He will give His angels (especial) charge over you to accompany anddefend andpreserve you in all your ways (of obedience and service). They shall bear you up on their hands, lest you dash your foot against a stone. (Luke 4:10, 11; Heb. 1:14.) You shall tread upon the lion and adder; the young lion and the serpent shall you trample underfoot. (Luke 10:19.)  Because he has set his love upon Me, therefore will I deliver him; I will set him on high, because he knows  and understands My name (has a personal knowledge of My mercy, love, and kindness–trusts and relies on Me, knowing I will never forsake him, no, never).  He shall call upon Me, and I will answer him; I will be with him in trouble, I will deliver him and honor him. With long life will I satisfy him and show him My salvation."
+                }, {
+                        "id": 2,
+                        "name": "New Mercy",
+                        "reference": "Lamentations 3:22-23",
+                        "verses": "It is because of the LORD’S lovingkindnesses that we are not consumed, Because His (tender) compassions never fail. They are new every morning; Great and beyond measure is Your faithfulness."
+                }, {
+                        "id": 4,
+                        "name": "You Can Do All Things",
+                        "reference": "Job 42:2",
+                        "verses": "I know that You can do all things, And that no thought or purpose of Yours can be restrained."
+                },
+                {
+                        "id": 5,
+                        "name": "He Works It Out",
+                        "reference": "Romans 8:28",
+                        "verses": "And we know (with great confidence) that God (who is deeply concerned about us) causes all things to work together (as a plan) for good for those who love God, to those who are called according to His plan and purpose."
+                }, 
+{"id": 6, "name":"The Blessing", "reference":"Numbers 6:24-26", "verses": "The Lord bless you, and keep you (protect you, sustain you, and guard you);  The Lord make His face shine upon you (with favor), And be gracious to you (surrounding you with lovingkindness); The Lord lift up His countenance (face) upon you (with divine approval), And give you peace (a tranquil heart and life)"},
+{"id": 7, "name":"Prayer of Jabez", "reference":"1 Chronicles 4:10", "verses": "Jabez cried out to the God of Israel, saying, “Oh that You would indeed bless me and enlarge my border (property), and that Your hand would be with me, and You would keep me from evil so that it does not hurt me!” And God granted his request."},
+{"id": 8, "name":"Immeasurable Power", "reference":"Ephesians 1:18-19", "verses": "And (I pray) that the eyes of your heart (the very center and core of your being) may be enlightened (flooded with light by the Holy Spirit), so that you will know and cherish the hope (the divine guarantee, the confident expectation) to which He has called you, the riches of His glorious inheritance in the saints (God’s people), and (so that you will begin to know) what the immeasurable and unlimited and surpassing greatness of His (active, spiritual) power is in us who believe. These are in accordance with the working of His mighty strength"},
+{"id": 9, "name":"Give Grateful Praise", "reference":"Psalm 100", "verses": "Make a joyful shout to the Lord, all you lands! Serve the Lord with gladness; Come before His presence with singing. Know that the Lord, He is God; It is He who has made us, and not we ourselves; We are His people and the sheep of His pasture.  Enter into His gates with thanksgiving, And into His courts with praise. Be thankful to Him, and bless His name. For the Lord is good; His mercy is everlasting, And His truth endures to all generations."}, {"id": 10, "name":"Be Thankful and Pray", "reference":"1 Thessalonians 5:16-18", "verses": "Rejoice always and delight in your faith; be unceasing and persistent in prayer; in every situation (no matter what the circumstances) be thankful and continually give thanks to God; for this is the will of God for you in Christ Jesus. "}, {"id": 11, "name":"The Shepherd", "reference":"Psalm 23", "verses": "The Lord is my Shepherd to feed, to guide and to shield me, I shall not want. He lets me lie down in green pastures; He leads me beside the still and quiet waters. He refreshes and restores my soul (life); He leads me in the paths of righteousness for His name’s sake.  Even though I walk through the sunless valley of the shadow of death, I fear no evil, for You are with me; Your rod (to protect) and Your staff (to guide), they comfort and console me. You prepare a table before me in the presence of my enemies. You have anointed and refreshed my head with oil; My cup overflows.  Surely goodness and mercy and unfailing love shall follow me all the days of my life, And I shall dwell forever (throughout all my days) in the house and in the presence of the Lord."} 
 
 
-
-	]
+ 
+        ]
 }
     
 ]
