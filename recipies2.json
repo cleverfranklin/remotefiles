@@ -761,7 +761,7 @@
 	"refPhoto": "",
 	"creator": "Gingerbread Recipe book",
 	"owner": "Alan"
-},{
+},{"name": "Pasta No Egg","image": "noeggpasta", "category": "Dinner","featured":false,"volume":4 ,"servings":10, "ingredients": [{"ingName": "SEMOLINA FLOUR ", "num": 450, "unit": " g"}, {"ingName": "WATER HOT ", "num": 1, "unit": "c"}, {"ingName": "SALT ", "num":1  , "denom":4 , "unit": "tsp"} ], "instructions": ["Mix flour and salt and make a well and pour hot water in center until the dough comes together, about 1 cup. Knead for 5 to 10 minutes until smooth and quite hard", "Shape into preferred style and then boil for about 6 minutes" ], "related":"", "relatedName":"","description":"", "comments": "From cooking class in NYC March 2022. Was for cavatelli but could be other noodle types ", "highlights":"", "seasonality":"", "prepTime":"10 min", "cookTime":"6 minutes", "totalTime":"", "servingType":"", "source":"Rustico", "refPage":"", "refPhoto":"","creator":"Rustico cooking class", "owner":"Alan" }, {
 	"name": "Simple Caramel Syrup",
 	"volume": 4,
 	"servings": 12,
