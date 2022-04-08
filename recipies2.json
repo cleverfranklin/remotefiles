@@ -267,7 +267,56 @@
 		}],
 		"instructions": ["Frosting - Mix/whip Cream Cheese & Butter, then add Sugar and Vanilla. Spread over rolls as soon as they come out of the oven"],
 		"category": "Breakfast"
-	},
+	},{
+	"name": "Molten Chocolate Cakes",
+	"image": "moltencake",
+	"category": "Dessert",
+	"featured": true,
+	"volume": 4,
+	"servings": 5,
+	"ingredients": [{
+		"ingName": "CHOCOLATE Bittersweet ",
+		"num": 4,
+		"unit": "oz"
+	}, {
+		"ingName": " BUTTER",
+		"num": 8,
+		"unit": "tbsp "
+	}, {
+		"ingName": "EGGS ",
+		"num": 2,
+		"unit": "Large "
+	}, {
+		"ingName": "EGG YOLKS ",
+		"num": 2,
+		"unit": "Large "
+	}, {
+		"ingName": "SUGAR FINE",
+		"num": 1,
+		"denom": 4,
+		"unit": "c "
+	}, {
+		"ingName": "FLOUR ",
+		"num": 1,
+		"unit": "tbsp "
+	}],
+	"instructions": ["Spray 1/2 cup molds, 5 of them, with cooking spray and dust with sugar", "Use a double boiler to melt Butter and Chocolate together and remove from heat. For 1oz chocolate can use 1tbsp cocoa+ 2 tsp sugar + 2 tsp butter or oil", "In a separate bowl beat together Eggs, Egg yolks, and sugar and whisk until sugar is dissolved", "Slowly beat the Chocolate mixture into the egg mixture, whisking constantly to prevent curdling. Then beat the Flour into the mixture until you can no longer see it. ", "Pour chocolate into molds and bake for 8 minutes at 425F. You want the outside to be set however the inside to be soft and runny. "],
+	"related": "",
+	"relatedName": "",
+	"description": "small and easy to make molten chocolate cake",
+	"comments": "learned this from cooking class at Macy's for Adobe NYC meetings March 2022  ",
+	"highlights": "",
+	"seasonality": "",
+	"prepTime": "15 min",
+	"cookTime": "8 minutes",
+	"totalTime": "",
+	"servingType": "",
+	"source": "Rustico Cooking Class",
+	"refPage": "",
+	"refPhoto": "",
+	"creator": "Micol Negrin Rustico Cooking",
+	"owner": "Alan"
+},
 	{
 		"name": "Hot Cocoa",
 		"volume": 4,
