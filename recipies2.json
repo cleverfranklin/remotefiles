@@ -426,7 +426,79 @@
 	"creator": "Mud brick Winery Waiheke",
 	"owner": "Alan"
 },
-	{
+ {
+	"name": "Best Red Velvet Cake",
+	"image": "redvelvetcake",
+	"category": "Dessert",
+	"featured": false,
+	"volume": 4,
+	"servings": 10,
+	"ingredients": [{
+		"ingName": "BUTTER",
+		"num": 1,
+		"denom": 2,
+		"unit": "c"
+	}, {
+		"ingName": "SUGAR ",
+		"num": 3,
+		"denom": 2,
+		"unit": "c "
+	}, {
+		"ingName": "EGGS ",
+		"num": 2,
+		"unit": "large room temperature "
+	}, {
+		"ingName": "VANILLA ",
+		"num": 2,
+		"unit": "tsp "
+	}, {
+		"ingName": "BUTTERMILK ",
+		"num": 1,
+		"unit": "c "
+	}, {
+		"ingName": "VINEGAR ",
+		"num": 1,
+		"unit": "tbsp "
+	}, {
+		"ingName": "COCOA POWDER ",
+		"num": 3,
+		"unit": "tbsp "
+	}, {
+		"ingName": "FLOUR ",
+		"num": 5,
+		"denom": 2,
+		"unit": "c "
+	}, {
+		"ingName": "RED FOOD COLOR ",
+		"num": 2,
+		"unit": "tsp "
+	}, {
+		"ingName": "SALT ",
+		"num": 1,
+		"unit": "tsp "
+	}, {
+		"ingName": "BAKING SODA ",
+		"num": 1,
+		"unit": "tsp "
+	}],
+	"instructions": ["Preheat the oven to 350 degrees F. Butter and cocoa powder three 6-inch cake pans. In a standing mixer fitted with a paddle attachment, cream your room temperature butter. Add in sugar and mix on medium until combined.Add eggs in one at a time and beat. Add vanilla extract. Add red food coloring and vinegar to the buttermilk. Sift in cocoa powder to the butter mixture.", "In a large bowl, sift the dry ingredients together. Add half of the dry and half of the wet to the butter mixture until combined. Add the red buttermilk mixture and mix until combined.", "Pour the batter into three prepared pans. Add any extra batter to a cupcake paper. This will be used for the crumble. Add damp baking strips. Bake for about 30-35 minutes or until the centers are springy to the touch. When done, let them cool in their pans for about 5 minutes, then dump them out onto a wire rack. Bake the crumble cupcake for about 15-20 minutes.", "To create the crumbs, you can either break up the cupcake by hand or use a cheese grater. I find that using the grater gives you a more consistent crumb for decorating. Pipe a thick layer of cream cheese frosting between each layer. Cover the cake in frosting. Use a bench scraper and offset spatula to smooth out the cake. Transfer to the fridge to chill for about 10 minutes or until the frosting is a bit set. If you’re in a warm climate, let your cake chill for even longer! Using your hand, scoop crumbs onto the side and top of the cake until it’s completely covered."],
+	"related": "",
+	"relatedName": "",
+	"description": "",
+	"comments": " ",
+	"highlights": "",
+	"seasonality": "",
+	"prepTime": "15",
+	"cookTime": "35",
+	"totalTime": "",
+	"servingType": "",
+	"source": "",
+	"refPage": "",
+	"refPhoto": "",
+	"creator": "Preppy Kitchen.com John Kanell 2/5/19",
+	"owner": "Alan"
+}
+ ,{
 		"name": "Caramel or Peanut Butter Brownie",
 		"volume": 4,
 		"servings": 16,
