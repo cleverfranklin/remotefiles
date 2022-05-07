@@ -1,7 +1,8 @@
 [{
 	"id": 0,
 	"version": "niv",
-	"prayerList": [{
+	"prayerList": [
+		{
 			"id": 0,
 			"name": "The Lord's Prayer",
 			"reference": "Matthew 6:9-13",
@@ -57,6 +58,21 @@
 			"name": "The Shepherd",
 			"reference": "Psalm 23",
 			"verses": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name’s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever."
+		}, {
+			"id": 12,
+			"name": "Clean Heart",
+			"reference": "Psalms 51:10-12",
+			"verses": "Create in me a pure heart, O God, and renew a steadfast spirit within me. Do not cast me from your presence or take your Holy Spirit from me. Restore to me the joy of your salvation and grant me a willing spirit, to sustain me. "
+		}, {
+			"id": 13,
+			"name": "New Creation",
+			"reference": "2 Corinthians 5:17",
+			"verses": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
+		}, {
+			"id": 14,
+			"name": "Love in Action",
+			"reference": "Romans 12:9-14",
+			"verses": "Love must be sincere. Hate what is evil; cling to what is good. 10Be devoted to one another in love. Honor one another above yourselves. 11Never be lacking in zeal, but keep your spiritual fervor, serving the Lord. 12Be joyful in hope, patient in affliction, faithful in prayer. 13Share with the Lord’s people who are in need. Practice hospitality. 14Bless those who persecute you; bless and do not curse."
 		}
 	]
 },
