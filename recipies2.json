@@ -231,7 +231,8 @@
 			"num": 2,
 			"denom": 3,
 			"unit": "c"
-		}, {
+		}, {"ingName": "BUTTER for filling", "num":1, "denom":4, "unit": "c"},
+		{
 			"ingName": "CINNAMON",
 			"num": 3,
 			"denom": 2,
