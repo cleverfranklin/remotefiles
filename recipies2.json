@@ -1519,11 +1519,7 @@
 		"ingName": "FLOUR ",
 		"num": 1,
 		"unit": "c "
-	}, {
-		"ingName": "CORN FLOUR ",
-		"num": 1,
-		"unit": "c "
-	}, {
+	},  {
 		"ingName": "BUTTERMILK",
 		"num": 1,
 		"unit": "c"
