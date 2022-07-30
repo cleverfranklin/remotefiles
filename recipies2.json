@@ -1503,5 +1503,66 @@
 		"refPhoto": "",
 		"creator": "Marley & Spoon",
 		"owner": "Alan"
-	}
+	}, 
+ {
+	"name": "Honey Corn Bread",
+	"image": "cornbread",
+	"category": "Side",
+	"featured": false,
+	"volume": 4,
+	"servings": 12,
+	"ingredients": [{
+		"ingName": "CORN FLOUR ",
+		"num": 1,
+		"unit": "c "
+	}, {
+		"ingName": "FLOUR ",
+		"num": 1,
+		"unit": "c "
+	}, {
+		"ingName": "CORN FLOUR ",
+		"num": 1,
+		"unit": "c "
+	}, {
+		"ingName": "BUTTERMILK",
+		"num": 1,
+		"unit": "c"
+	}, {
+		"ingName": "SALT",
+		"num": 1,
+		"unit": "tsp"
+	}, {
+		"ingName": "HONEY",
+		"num": 2,
+		"unit": "tbsp"
+	}, {
+		"ingName": "BUTTER",
+		"num": 2,
+		"unit": "tbsp"
+	}, {
+		"ingName": "BAKING POWDER",
+		"num": 2,
+		"unit": "tsp"
+	}, {
+		"ingName": "EGGS",
+		"num": 2,
+		"unit": "Beaten"
+	}],
+	"instructions": ["Sift cornmeal, flour, baking powder and salt together. Mix honey & soft or melted butter together separately. ", "Beat eggs & buttermilk into the honey & butter mixture. Combine with the dry ingredients and mix well", "Preheat oven to 375. Butter or oil baking pans or muffin tins and back for 20 to 30 minutes. Makes 1 x 9 inch square pan. "],
+	"related": "",
+	"relatedName": "",
+	"description": "",
+	"comments": " ",
+	"highlights": "",
+	"seasonality": "",
+	"prepTime": "10 min",
+	"cookTime": "30",
+	"totalTime": "",
+	"servingType": "",
+	"source": "",
+	"refPage": "",
+	"refPhoto": "",
+	"creator": "Alan",
+	"owner": "Alan"
+}
 ]
