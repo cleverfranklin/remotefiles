@@ -499,7 +499,53 @@
 	"creator": "Preppy Kitchen.com John Kanell 2/5/19",
 	"owner": "Alan"
 }
- ,{"name": "Honey Bee Cocktail","image": "honeybee", "category": "Drink","featured":true,"volume":4 ,"servings":1, "ingredients": [{"ingName": " TEQUILA", "num":2  ,  "unit": "oz "}, {"ingName": " MEZCAL", "num":2  ,  "unit": "oz "}, {"ingName": " HONEY SYRUP", "num":1  ,  "unit": "oz "}, {"ingName": "LEMON JUICE", "num":  , "denom": , "unit": " "},{ "ingName": " BITTERS", "num":2  ,  "unit": "dashes "} ], "instructions": ["Coat a glass with the Mezcal and then disregard. Make honey syrup with a 1:1 ratio of honey to water", "Mix all ingredients with ice, shake and serve" ], "related":"", "relatedName":"","description":"delicious sweet and tart and packs a punch", "comments": "first had at superba ", "highlights":"", "seasonality":"", "prepTime":"5 min", "cookTime":"5 min", "totalTime":"", "servingType":"", "source":"dontmondaymysunday.com", "refPage":"", "refPhoto":"","creator":"Alan", "owner":"Alan" }, {
+ ,{
+	"name": "Honey Bee Cocktail",
+	"image": "honeybee",
+	"category": "Drink",
+	"featured": true,
+	"volume": 4,
+	"servings": 1,
+	"ingredients": [{
+		"ingName": " TEQUILA",
+		"num": 2,
+		"unit": "oz "
+	}, {
+		"ingName": " MEZCAL",
+		"num": 2,
+		"unit": "oz "
+	}, {
+		"ingName": " HONEY SYRUP",
+		"num": 1,
+		"unit": "oz "
+	}, {
+		"ingName": "LEMON JUICE",
+		"num": 3,
+		"denom": 4,
+		"unit": " "
+	}, {
+		"ingName": " BITTERS",
+		"num": 2,
+		"unit": "dashes "
+	}],
+	"instructions": ["Coat a glass with the Mezcal and then disregard. Make honey syrup with a 1:1 ratio of honey to water", "Mix all ingredients with ice, shake and serve"],
+	"related": "",
+	"relatedName": "",
+	"description": "delicious sweet and tart and packs a punch",
+	"comments": "first had at superba ",
+	"highlights": "",
+	"seasonality": "",
+	"prepTime": "5 min",
+	"cookTime": "5 min",
+	"totalTime": "",
+	"servingType": "",
+	"source": "dontmondaymysunday.com",
+	"refPage": "",
+	"refPhoto": "",
+	"creator": "Alan",
+	"owner": "Alan"
+}, 
+ {
 		"name": "Caramel or Peanut Butter Brownie",
 		"volume": 4,
 		"servings": 16,
