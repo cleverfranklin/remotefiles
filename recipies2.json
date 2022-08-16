@@ -1424,7 +1424,7 @@
 		"image": "ashleydressing",
 		"category": "Sauce",
 		"featured": false,
-		"volume": 1,
+		"volume": 4,
 		"servings": 1,
 		"ingredients": [{
 			"ingName": "EVOO",
@@ -1440,9 +1440,13 @@
 			"unit": "tbsp "
 		}, {
 			"ingName": "SALT",
+			"num": 1,
+			"denom": 8,
 			"unit": "pinch "
 		}, {
 			"ingName": "PEPPER",
+			"num": 1,
+			"denom": 8,
 			"unit": "pinch "
 		}],
 		"instructions": ["Mix all ingredients together, shake and top your salad"],
