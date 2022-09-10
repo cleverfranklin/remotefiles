@@ -1656,5 +1656,171 @@
 		"refPhoto": "",
 		"creator": "Alan",
 		"owner": "Alan"
+	},
+ {
+		"name": "Dr. Libby's Chocolate Icing",
+		"image": "chocolateicing",
+		"category": "Dessert",
+		"featured": false,
+		"volume": 4,
+		"servings": 1,
+		"ingredients": [{
+			"ingName": "CACAO BUTTER",
+			"num": 100,
+			"unit": "g"
+		}, {
+			"ingName": "COCONUT OIL ",
+			"num": 1,
+			"denom": 4,
+			"unit": " c"
+		}, {
+			"ingName": "VANILLA PASTE",
+			"num": 3,
+			"denom": 4,
+			"unit": "tsp "
+		}, {
+			"ingName": "MAPLE SYRUP",
+			"num": 1,
+			"denom": 4,
+			"unit": "c "
+		}, {
+			"ingName": "CACAO POWDER",
+			"num": 1,
+			"denom": 2,
+			"unit": "c "
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"unit": "pinch"
+		}],
+		"instructions": ["Melt the cacao butter in double broiler. Once melted whisk in all ingredients to create the icing. "],
+		"related": "",
+		"relatedName": "",
+		"description": "chocolate topping",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "15 min",
+		"cookTime": "",
+		"totalTime": "",
+		"servingType": "",
+		"source": "Dr. Libby's Sweet Food Story",
+		"refPage": "113",
+		"refPhoto": "",
+		"creator": "Dr. Libby",
+		"owner": "Alan"
+	}, {
+		"name": "Dr. Libby's Chocolate Topping",
+		"image": "chocolatetopping",
+		"category": "Dessert",
+		"featured": false,
+		"volume": 4,
+		"servings": 1,
+		"ingredients": [{
+			"ingName": "CACAO BUTTER",
+			"num": 100,
+			"unit": " g"
+		}, {
+			"ingName": "CACAO POWDER",
+			"num": 30,
+			"unit": " g"
+		}, {
+			"ingName": "MAPLE SYRUP ",
+			"num": 1,
+			"denom": 4,
+			"unit": "c"
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"unit": "pinch"
+		}],
+		"instructions": ["Melt Cacao Butter and salt on a double broiler. Whisk in the other ingredients and then serve"],
+		"related": "",
+		"relatedName": "",
+		"description": "",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "15 min",
+		"cookTime": "",
+		"totalTime": "",
+		"servingType": "",
+		"source": "Dr. Libby's Sweet Food Story",
+		"refPage": "227",
+		"refPhoto": "",
+		"creator": "Dr. Libby",
+		"owner": "Alan"
+	},
+	{
+		"name": "Aebleskiver Jam Filled Pancakes",
+		"image": "filledpancakes",
+		"category": "Breakfast",
+		"featured": false,
+		"volume": 4,
+		"servings": 24,
+		"ingredients": [{
+			"ingName": "FLOUR ",
+			"num": 7,
+			"denom": 4,
+			"unit": "c "
+		}, {
+			"ingName": "BAKING SODA",
+			"num": 3,
+			"denom": 4,
+			"unit": "tsp "
+		}, {
+			"ingName": "BAKING POWDER ",
+			"num": 1,
+			"unit": " tsp"
+		}, {
+			"ingName": "SUGAR",
+			"num": 3,
+			"denom": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "SALT ",
+			"num": 1,
+			"denom": 2,
+			"unit": " tsp"
+		}, {
+			"ingName": "LEMON ",
+			"num": 1,
+			"denom": 2,
+			"unit": "zest"
+		}, {
+			"ingName": "EGG YOLK",
+			"num": 3,
+			"unit": "medium "
+		}, {
+			"ingName": "BUTTERMILK ",
+			"num": 4,
+			"denom": 3,
+			"unit": "c"
+		}, {
+			"ingName": "RICOTTA",
+			"num": 3,
+			"denom": 4,
+			"unit": " c"
+		}, {
+			"ingName": "EGG WHITES",
+			"num": 5,
+			"unit": "medium"
+		}],
+		"instructions": ["Mix together all of the dry ingredients. Flour, Baking soda, baking powder, sugar, salt and lemon zest. ", "Whisk EGG YOLKS lightly, then add buttermilk and ricotta. Then combine this egg mix with the dry ingredients. ", "Beat EGG WHITES until stiff but not dry peak form, about 2 or 3 minutes. Stir the egg whites into the batter in two parts. ", "Heat cast iron pan on medium heat. Put about 1/4 tsp butter into each well. Once the butter bubbles add about 3/4 tbsp of batter, then a small drop of jam or other filling, then add batter on top. Cook until brown and use chop sticks to flip over and cook the other size. Sprinkle with powdered sugar once complete. ", "", "", "", "", "", "", "", "", "", "", ""],
+		"related": "",
+		"relatedName": "",
+		"description": "Danish pancakes came with cast iron",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "20 min",
+		"cookTime": "5 min",
+		"totalTime": "",
+		"servingType": "",
+		"source": "",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "",
+		"owner": "Alan"
 	}
 ]
