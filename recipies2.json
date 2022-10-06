@@ -1822,5 +1822,157 @@
 		"refPhoto": "",
 		"creator": "",
 		"owner": "Alan"
+	},
+ {
+		"name": "Gooey Butter Cake Traditional",
+		"image": "gooeybuttertraditional",
+		"category": "Dessert",
+		"featured": false,
+		"volume": 4,
+		"servings": 25,
+		"ingredients": [{
+			"ingName": " FLOUR",
+			"num": 7,
+			"denom": 4,
+			"unit": "c "
+		}, {
+			"ingName": " EGGS",
+			"num": 1,
+			"unit": "large "
+		}, {
+			"ingName": " SALT",
+			"num": 1,
+			"unit": "tsp "
+		}, {
+			"ingName": " SUGAR",
+			"num": 3,
+			"unit": "tbsp "
+		}, {
+			"ingName": " BUTTER ROOM TEMP",
+			"num": 6,
+			"unit": "tbsp "
+		}, {
+			"ingName": " YEAST",
+			"num": 7,
+			"denom": 4,
+			"unit": "tsp "
+		}, {
+			"ingName": " MILK ROOM TEMP",
+			"num": 3,
+			"unit": "tbsp "
+		}, {
+			"ingName": " CORN SYRUP",
+			"num": 10,
+			"denom": 3,
+			"unit": "tbsp "
+		}, {
+			"ingName": " VANILLA",
+			"num": 5,
+			"denom": 2,
+			"unit": "tbsp "
+		}, {
+			"ingName": " BUTTER ROOM TEMP",
+			"num": 12,
+			"unit": "tbsp "
+		}, {
+			"ingName": " SUGAR",
+			"num": 3,
+			"denom": 2,
+			"unit": "c "
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": " EGGS",
+			"num": 1,
+			"unit": "large "
+		}, {
+			"ingName": " FLOUR",
+			"num": 1,
+			"unit": "c"
+		}, {
+			"ingName": " FLOUR",
+			"num": 3,
+			"unit": "tbsp"
+		}],
+		"instructions": ["Make the cake by Mix Milk with 2 tbsp of Water. Add Yeast and allow to dissolve.  Cream butter, sugar, and salt. Ad egg, then flour and milk mixture. Beat dough until it's smooth, about 10 minutes. ", "Press dough into ungreased 9x13 pan. Cover for up to 3 hours so it can rise. ", "Make the topping: Mix Corn Syrup with 2 tbsp Water and Vanilla. Cream the butter, sugar and salt about 5 minutes. Beat in the egg and then add the flour and corn syrup mixture. ", "Spread the topping over the cake base. Bake on 350F for 35 to 40 minutes. It is finished when it is wavy with a golden brown top but still liquid in the center. Allow to cool and then coat with powdered sugar."],
+		"related": "",
+		"relatedName": "",
+		"description": "Traditional original recipe from NYT",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "4 hours",
+		"cookTime": "",
+		"totalTime": "",
+		"servingType": "",
+		"source": "",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "New York Times",
+		"owner": "Alan"
+	},
+	{
+		"name": "Gooey Butter Cake Modern Donna B",
+		"image": "gooeybuttermodern",
+		"category": "Dessert",
+		"featured": false,
+		"volume": 4,
+		"servings": 25,
+		"ingredients": [{
+			"ingName": "YELLOW CAKE MIX ",
+			"num": 1,
+			"unit": "box "
+		}, {
+			"ingName": "BUTTER MELTED ",
+			"num": 1,
+			"unit": "stick "
+		}, {
+			"ingName": "EGGS ",
+			"num": 2,
+			"unit": "medium "
+		}, {
+			"ingName": " WATER",
+			"num": 2,
+			"unit": "tbsp "
+		}, {
+			"ingName": "CREAM CHEESE ",
+			"num": 8,
+			"unit": "oz "
+		}, {
+			"ingName": "POWDERED SUGAR ",
+			"num": 1,
+			"unit": "lb "
+		}, {
+			"ingName": "BUTTER ",
+			"num": 1,
+			"unit": "stick "
+		}, {
+			"ingName": "EGGS ",
+			"num": 2,
+			"unit": "medium "
+		}, {
+			"ingName": "VANILLA ",
+			"num": 1,
+			"unit": "tsp "
+		}],
+		"instructions": ["Combine Cake Mix, Melted Butter, 2 Eggs and Water. Pour into a greased 9 x 13 pan. ", "Combine Cream Cheese, Sugar, Butter, Eggs and Vanilla. Pour mixture over the cake mix in the pan. ", "Bake at 350F for 35-40 minutes. Sprinkle powder sugar (reserved from 1lb) over the cake. "],
+		"related": "",
+		"relatedName": "",
+		"description": "",
+		"comments": "Donna Bahnak's recipe, marcie's favorit ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "15 min",
+		"cookTime": "35-40",
+		"totalTime": "",
+		"servingType": "",
+		"source": "",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "Donna Bahnak",
+		"owner": "Alan"
 	}
 ]
