@@ -1970,5 +1970,210 @@
 		"refPhoto": "",
 		"creator": "Donna Bahnak",
 		"owner": "Alan"
+	},
+ {
+		"name": "Suzie's Meatloaf with BBQ sauce",
+		"image": "meatloaf",
+		"category": "Dinner",
+		"featured": false,
+		"volume": 4,
+		"servings": 5,
+		"ingredients": [{
+			"ingName": "GROUND SAUSAGE ",
+			"num": 500,
+			"unit": "g "
+		}, {
+			"ingName": "GROUND BEEF ",
+			"num": 500,
+			"unit": "g "
+		}, {
+			"ingName": "BREADCRUMBS ",
+			"num": 1,
+			"unit": "c"
+		}, {
+			"ingName": "ONIONS ",
+			"num": 2,
+			"unit": "medium"
+		}, {
+			"ingName": "CURRY POWDER ",
+			"num": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "MIXED HERBS",
+			"num": 1,
+			"unit": "tbsp"
+		}, {
+			"ingName": "EGG ",
+			"num": 1,
+			"unit": "large"
+		}, {
+			"ingName": "MILK ",
+			"num": 1,
+			"denom": 2,
+			"unit": "c"
+		}, {
+			"ingName": "WATER ",
+			"num": 1,
+			"denom": 2,
+			"unit": "c"
+		}],
+		"instructions": ["Combine meat, breadcrumbs, finely chopped onions, curry powder, pinch of salt & pepper, herbs and egg. ", "Gradually add the milk & water and mix until smooth. Shape mixture into a load and place in a greased dish. ", "Bake at moderate temp 375F for 30 minutes. Remove any surplus fat and then pour sauce over meatloaf. Bake another 45 minutes while basting. "],
+		"related": "",
+		"relatedName": "",
+		"description": "Suzie's favorite recipe",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "10 min",
+		"cookTime": "115 min",
+		"totalTime": "",
+		"servingType": "",
+		"source": "Alan",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "Suzie boyle",
+		"owner": "Alan"
+	},
+	{
+		"name": "Suzie's BBQ Sauce",
+		"image": "bbqsauce",
+		"category": "Sauce",
+		"featured": false,
+		"volume": 4,
+		"servings": 5,
+		"ingredients": [{
+			"ingName": "WATER",
+			"num": 1,
+			"denom": 2,
+			"unit": " c"
+		}, {
+			"ingName": "TOMATO SAUCE",
+			"num": 1,
+			"denom": 2,
+			"unit": " c"
+		}, {
+			"ingName": "WORCESTERSHIRE",
+			"num": 1,
+			"denom": 2,
+			"unit": " c"
+		}, {
+			"ingName": "BROWN SUGAR",
+			"num": 1,
+			"denom": 4,
+			"unit": " c"
+		}, {
+			"ingName": "VINEGAR",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "COFFEE POWDER",
+			"num": 1,
+			"unit": "tsp"
+		}, {
+			"ingName": "BUTTER",
+			"num": 1,
+			"unit": "oz"
+		}, {
+			"ingName": "LEMON JUICE",
+			"num": 2,
+			"unit": "tbsp"
+		}],
+		"instructions": ["Combine all ingredients in a saucepan and bring to a boil. Reduce heat and simmer for 5 minutes, stirring frequently. "],
+		"related": "",
+		"relatedName": "",
+		"description": "bbq sauce for over meatloaf",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "5 min",
+		"cookTime": "10 min",
+		"totalTime": "",
+		"servingType": "",
+		"source": "suzie",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "Suzie",
+		"owner": "alan"
+	},
+	{
+		"name": "British Bakes Beans",
+		"image": "bakedbeans",
+		"category": "Breakfast",
+		"featured": false,
+		"volume": 4,
+		"servings": 8,
+		"ingredients": [{
+			"ingName": "NAVY BEANS ",
+			"num": 2,
+			"unit": "c "
+		}, {
+			"ingName": "STOCK ",
+			"num": 2,
+			"unit": "c "
+		}, {
+			"ingName": "WORCESTERSHIRE ",
+			"num": 2,
+			"unit": "tsp"
+		}, {
+			"ingName": "KETCHUP ",
+			"num": 6,
+			"unit": "tbsp "
+		}, {
+			"ingName": "TOMATO PASTE ",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "BROWN SUGAR ",
+			"num": 3,
+			"unit": "tbsp"
+		}, {
+			"ingName": "APPLE CIDER VINEGAR",
+			"num": 1,
+			"unit": "tbsp"
+		}, {
+			"ingName": "GARLIC POWDER ",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp "
+		}, {
+			"ingName": "ONION POWDER ",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp "
+		}, {
+			"ingName": "BLACK PEPPER ",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp "
+		}, {
+			"ingName": "SALT ",
+			"num": 1,
+			"unit": "tsp "
+		}, {
+			"ingName": "CORN STARCH or FLOUR ",
+			"num": 8,
+			"unit": "tsp "
+		}, {
+			"ingName": "WATER ",
+			"num": 1,
+			"denom": 4,
+			"unit": " c"
+		}],
+		"instructions": ["If using dried beans soak for 8 to 24 hours, drain and then boil  and simmer for 1 hr to 90 minutes. Beans should be slightly firm on the inside. ", "Mix all ingredients together for the sauce and then add the beans. Bring to a simmer for 20 minutes, without the lid. ", "Separately make the thickener by mixing together the corn starch and water until dissolved. Add the thickener to the beans and stir for about 2 minutes. "],
+		"related": "",
+		"relatedName": "",
+		"description": "classic british baked beans",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "24 hrs for beans soaking",
+		"cookTime": "2 hrs if cooking raw beans",
+		"totalTime": "",
+		"servingType": "",
+		"source": "recipetineats",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "alan",
+		"owner": "alan"
 	}
 ]
