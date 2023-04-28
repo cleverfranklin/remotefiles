@@ -59,7 +59,9 @@
 			"ingName": "SALT",
 			"num": 1,
 			"unit": "tsp"
-		}, {
+		},  {
+			"ingName": "HONEY", "num": 3, "denom": 2, "unit": "tsp"}
+		,{
 			"ingName": "EVOO",
 			"num": 2,
 			"unit": "tbsp"
