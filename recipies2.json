@@ -2177,5 +2177,93 @@
 		"refPhoto": "",
 		"creator": "alan",
 		"owner": "alan"
+	},
+ {
+		"name": "Sprout seed disenfection",
+		"image": "sprouts",
+		"category": "Snack",
+		"featured": false,
+		"volume": 4,
+		"servings": 1,
+		"ingredients": [{
+			"ingName": "SEEDS",
+			"num": 1,
+			"unit": "tsp heaping "
+		}, {
+			"ingName": "APPLE CIDER VINEGAR",
+			"num": 2,
+			"unit": "tbsp"
+		}, {
+			"ingName": "WATER HOT",
+			"num": 1,
+			"unit": "c"
+		}],
+		"instructions": ["Put seeds in a jar, add the hot tap water and vinegar. Soak for 15 minutes. ", "Rinse well and then soak seeds for up to 24 hours before starting them"],
+		"related": "",
+		"relatedName": "",
+		"description": "",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "",
+		"cookTime": "",
+		"totalTime": "",
+		"servingType": "",
+		"source": "",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "Alan",
+		"owner": ""
+	},
+	{
+		"name": "Rugelach",
+		"image": "rugelach",
+		"category": "Dessert",
+		"featured": false,
+		"volume": 4,
+		"servings": 36,
+		"ingredients": [{
+			"ingName": "BUTTER",
+			"num": 16,
+			"unit": "tbsp "
+		}, {
+			"ingName": "CREME CHEESE",
+			"num": 6,
+			"unit": "ounces"
+		}, {
+			"ingName": "SOUR CREAM",
+			"num": 1,
+			"denom": 3,
+			"unit": "c "
+		}, {
+			"ingName": "SALT",
+			"num": 1,
+			"denom": 2,
+			"unit": "tsp "
+		}, {
+			"ingName": "VANILLA",
+			"num": 1,
+			"unit": "tsp "
+		}, {
+			"ingName": "FLOUR",
+			"num": 2,
+			"unit": "c"
+		}],
+		"instructions": ["Mix together room temperature cream cheese and butter in a food processor. Add the rest of the ingredients with flour last. As soon as it's blended stop the mixing, don't over mix. ", "Divide into 3 portions and roll into a ball. Refrigerate for 1 hour before handling but don't over refrigerate. You can freeze just thaw for an hour before using. ", "Roll out the dough to a 9 or 10 inch circle. Brush the dough with water, then put a thin layer of apricot jam, honey, jelly or something sweet. Then layer on top a filling. ", "Cut into 12 pieces like a pizza and then roll up from the outside in and shape to slight crescent. Brush the top with egg wash, milk or cream and sprinkle with sugar, maybe cinnamon sugar.", "Bake at 350F for 25-30 min. "],
+		"related": "",
+		"relatedName": "",
+		"description": "polish jewish tradition",
+		"comments": " ",
+		"highlights": "",
+		"seasonality": "",
+		"prepTime": "1 hour 15 min",
+		"cookTime": "30 min",
+		"totalTime": "",
+		"servingType": "",
+		"source": "king arthur",
+		"refPage": "",
+		"refPhoto": "",
+		"creator": "King Arthur",
+		"owner": "alan"
 	}
 ]
