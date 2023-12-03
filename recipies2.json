@@ -2344,8 +2344,7 @@
     "refPhoto": "",
     "creator": "",
     "owner": ""
-},
-	{
+},{
     "name": "EASY OVERNIGHT DANISH RYE BREAD (RUGBRØD)",
     "image": "ryebread",
     "category": "Snack",
@@ -2370,9 +2369,15 @@
             "unit": " c"
         },
         {
-            "ingName": "COLD WATER ",
-            "num": 5,
+            "ingName": "FLAX SEEDS ",
+            "num": 1,
             "denom": 2,
+            "unit": " c"
+        },
+        {
+            "ingName": "COLD WATER ",
+            "num": 8,
+            "denom": 3,
             "unit": "c "
         },
         {
